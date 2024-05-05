@@ -1,5 +1,5 @@
 # AI Compliance Verifier
-
+![Poster.png](Poster.png)
 ## About
 This project started as a university project at Trinity College Dublin in collaboration with IBM Research. We have continued to development of it in this repo. The original project repo that this was forked off can be found [here](https://github.com/AllanNastin/ethical-ai/).
 
