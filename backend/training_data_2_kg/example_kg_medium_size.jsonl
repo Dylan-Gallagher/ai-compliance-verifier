@@ -1,0 +1,3 @@
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "international organisations", "head_cat": "ORG", "type": "works_with", "tail": "artificial intelligence", "tail_cat": "ALG"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "legal certainty", "tail_cat": "ETH"}

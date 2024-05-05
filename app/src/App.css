@@ -1,0 +1,100 @@
+.home {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+  height: 100vh; 
+}
+
+.home-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  width: 100%;
+}
+
+.home-image-container {
+  width: 50%; 
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  position: relative; 
+  height: 100%; 
+}
+
+.home-image {
+  max-width: 95%; 
+  max-height: 100vh; 
+  position: relative;
+}
+
+.home-text {
+  width: 50%; 
+  text-align: right; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  padding: 10px 20px;
+}
+
+.home-title {
+  margin-bottom: 1rem;
+  font-size: 2rem; 
+}
+
+.home-text h1 {
+  font-size: 2.5rem; 
+  color: #000;
+}
+
+.home-text p {
+  font-size: 1rem; 
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.home-button {
+  padding: 10px 20px;
+  background-color: #0052cc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.home-button:hover {
+  background-color: #003da5;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.button-container {
+  display: flex; 
+  justify-content: flex-end; 
+  align-items: center; 
+}
+
+.ibm-button {
+  background-color: #0052cc;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none; 
+  position: relative;
+  overflow: hidden; 
+}
+
+.ibm-button:hover {
+  background-color: #003da5; 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}

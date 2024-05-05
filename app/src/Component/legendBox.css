@@ -1,0 +1,45 @@
+.legend-container {
+  border: 2px solid #0053ff; 
+  padding: 20px;
+  margin: 20px;
+  position: absolute;
+  top: 200px;          
+  right: 20px;
+  background-color: #fffefe;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  transform: translateY(-2px); 
+}
+
+.color-box {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+} 
+
+.definitions {
+   margin-left: 25px; 
+   list-style-type: disc; 
+}
+
+.hide-legend-btn {
+  position: absolute;
+  color: #0053ff;       
+  top: 175px;
+  right: 40px; 
+  background-color: #ffffff; 
+  border: none;
+  border: 2px solid #0053ff; 
+  border-radius: 4px; 
+  padding: 8px 16px; 
+  font-size: 13px; 
+  cursor: pointer;
+  font-weight: bold;  
+
+}
+
+.hide-legend-btn:hover {
+  background-color: #0053ff;    
+  color: white;                 
+  text-decoration: none;        
+}

@@ -1,0 +1,8 @@
+Compliance Score: 80
+Recommendations:
+- For ETH (Ethical Considerations), consider addressing: human agency, privacy, compliance, transparency, compliance, human oversight, technical robustness, compliance, transparency towards the public, transparency towards the public, transparency.
+- For SYS (System Characteristics), consider addressing: ai systems.
+- For ACT (Actions and Processes), consider addressing: monitoring, drafting, documentation, prepared and kept up to date, should be outlined, require access to vast amounts of text, images, videos, and other data, requires the authorization of the rightholder concerned, effective implementation.
+- For DAT (Data Handling), consider addressing: high quality data, illustrative examples, comprehensive, accessible and understandable information, personal data, personal data.
+- For DOC (Documentation and Specifications), consider addressing: regulation, union law,  union la, regulation, regulation, regulation, regulation,  instructions of use, annex (ixb) and annex (ixa).
+- For ORG (Organizational Aspects), consider addressing: general purpose ai model provider, providers.

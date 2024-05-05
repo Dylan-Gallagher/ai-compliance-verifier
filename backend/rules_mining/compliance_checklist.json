@@ -1,0 +1,58 @@
+{
+    "ETH": [
+        "human agency",
+        "privacy",
+        "compliance",
+        "transparency",
+        "fairness",
+        "compliance",
+        "human oversight",
+        "technical robustness",
+        "compliance",
+        "transparency towards the public",
+        "transparency towards the public",
+        "transparency"
+    ],
+    "SYS": [
+        "ai systems"
+    ],
+    "ACT": [
+        "monitoring",
+        "drafting",
+        "training",
+        "documentation",
+        "prepared and kept up to date",
+        "should be outlined",
+        "require access to vast amounts of text, images, videos, and other data",
+        "requires the authorization of the rightholder concerned",
+        "effective implementation",
+        "testing",
+        "development",
+        "testing",
+        "testing",
+        "testing",
+        "testing"
+    ],
+    "DAT": [
+        "high quality data",
+        "illustrative examples",
+        "comprehensive, accessible and understandable information",
+        "personal data",
+        "personal data"
+    ],
+    "DOC": [
+        "regulation",
+        "union law",
+        " union la",
+        "regulation",
+        "regulation",
+        "regulation",
+        "regulation",
+        " instructions of use",
+        "annex (ixb) and annex (ixa)"
+    ],
+    "ORG": [
+        "general purpose ai model provider",
+        "providers"
+    ]
+}

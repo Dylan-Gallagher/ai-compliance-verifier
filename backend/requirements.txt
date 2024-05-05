@@ -1,0 +1,11 @@
+pdfminer.six
+transformers
+networkx
+pyvis
+torch
+Flask
+flask_cors
+PyExecJS
+pandas
+scikit-learn
+PyMuPDF

@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* KNOWLEDGE GRAPH CONTAINER AND BUTTON CUSTOMISATION */
+.container {
+  background-color: #F0F0F0; /* Smoky off-white */
+  border: 3px ridge #888888;
+  margin: 20px;              
+  border-radius: 15px; /* Rounded corners */
+}
+
+
+.physics-controls button {
+  background-color: #4563a3f6; /* Background color set to semi-transparent blue */
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+  transition: background-color 0.3s; /* Smooth transition effect on background colour change */
+  margin: 10px;
+  position: relative;
+}
+
+.dropdown-content {
+  display: none; /* Hidden by default */
+  position: absolute; 
+  background-color: #f1f1f1; /* Background colour set to light gray */
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Displaying the dropdown content when hovering over physics-controls or when explicitly shown */
+.physics-controls:hover .dropdown-content, 
+.dropdown-content.show {
+  display: block;
+} 
+
+/* Changing button background color on hover */
+.physics-controls button:hover {
+  background-color: #444644; 
+}

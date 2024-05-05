@@ -1,0 +1,650 @@
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "international organisations", "head_cat": "ORG", "type": "works_with", "tail": "artificial intelligence", "tail_cat": "ALG"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "legal certainty", "tail_cat": "ETH"}
+{"head": "artificial intelligence systems", "head_cat": "SYS", "type": "based_on", "tail": " key characteristics", "tail_cat": "ETH"}
+{"head": "traditional software systems", "head_cat": "SYS", "type": "utilises", "tail": "programming approaches", "tail_cat": "PRO"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_be", "tail": "infer", "tail_cat": "ETH"}
+{"head": "inference", "head_cat": "ACT", "type": "utilises", "tail": "algorithms", "tail_cat": "ALG"}
+{"head": "algorithms", "head_cat": "ALG", "type": "is_affected_by", "tail": "virtual environments", "tail_cat": "SPA"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": " inputs/data", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "contains", "tail": "algorithms", "tail_cat": "ALG"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_be", "tail": "inference", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "can_be", "tail": "data processing", "tail_cat": "PRO"}
+{"head": "AI system", "head_cat": "SYS", "type": "can_be", "tail": "enable learning", "tail_cat": "PRO"}
+{"head": "AI system", "head_cat": "SYS", "type": "can_be", "tail": "reasoning", "tail_cat": "PRO"}
+{"head": "AI system", "head_cat": "SYS", "type": "can_be", "tail": "modelling", "tail_cat": "PRO"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "predictions", "tail_cat": "ACT"}
+{"head": "2019 Ethics Guidelines", "head_cat": "DOC", "type": "based_on", "tail": "AI", "tail_cat": "ALG"}
+{"head": "High-Level Expert Group", "head_cat": "ORG", "type": "governs_or_guides", "tail": "AI", "tail_cat": "ALG"}
+{"head": "the Commission", "head_cat": "ORG", "type": "governs_or_guides", "tail": "AI", "tail_cat": "ALG"}
+{"head": "HLEG", "head_cat": "ORG", "type": "interact_with", "tail": "Guidelines", "tail_cat": "DOC"}
+{"head": "ethical principles", "head_cat": "ETH", "type": "governs_or_guides", "tail": "HLEG", "tail_cat": "ORG"}
+{"head": "HLEG", "head_cat": "ORG", "type": "regulates", "tail": "AI", "tail_cat": "ALG"}
+{"head": "AI", "head_cat": "ALG", "type": "should_be", "tail": "trustworthy", "tail_cat": "ETH"}
+{"head": "Artificial Intelligence", "head_cat": "ALG", "type": "should_be", "tail": "coherent", "tail_cat": "ETH"}
+{"head": "Artificial Intelligence", "head_cat": "ALG", "type": "should_be", "tail": "human-centric", "tail_cat": "ETH"}
+{"head": "Artificial Intelligence", "head_cat": "ALG", "type": "should_be", "tail": "trustworthy", "tail_cat": "ETH"}
+{"head": "Regulation", "head_cat": "DOC", "type": "are_central_to", "tail": "legally binding requirements", "tail_cat": "PRO"}
+{"head": "legally binding requirements", "head_cat": "PRO", "type": "involved_in", "tail": "Union law", "tail_cat": "DOC"}
+{"head": "legally binding requirements", "head_cat": "PRO", "type": "relate_to", "tail": "Guidelines", "tail_cat": "DOC"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "human agency", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_be", "tail": "oversight", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "must_be", "tail": "respects human dignity and personal autonomy", "tail_cat": "ETH"}
+{"head": "Guidelines of HLEG", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_be", "tail": "safety", "tail_cat": "ETH"}
+{"head": "data governance", "head_cat": "PRO", "type": "require", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "Privacy", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "Transparency", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_be", "tail": "traceability", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "interact_with", "tail": "persons", "tail_cat": "PER"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "fairness", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "Diversity", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "non-discrimination", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "monitoring", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "Social and environmental well-being", "tail_cat": "ETH"}
+{"head": "Regulation", "head_cat": "DOC", "type": "require", "tail": "drafting", "tail_cat": "ACT"}
+{"head": "stakeholders", "head_cat": "PER", "type": "are_central_to", "tail": "ethical principles", "tail_cat": "ETH"}
+{"head": "stakeholders", "head_cat": "PER", "type": "perform_in", "tail": "development", "tail_cat": "ACT"}
+{"head": "development", "head_cat": "ACT", "type": "consider", "tail": "ethical principles", "tail_cat": "ETH"}
+{"head": "Biometric categorisation systems", "head_cat": "SYS", "type": "utilises", "tail": "biometric data", "tail_cat": "DAT"}
+{"head": "labelling, filtering or categorisation", "head_cat": "ACT", "type": "perform_in", "tail": "biometric datasets", "tail_cat": "DAT"}
+{"head": " national law", "head_cat": "DOC", "type": "governs_or_guides", "tail": "biometric datasets", "tail_cat": "DAT"}
+{"head": "biometric data", "head_cat": "DAT", "type": "based_on", "tail": " national law", "tail_cat": "DOC"}
+{"head": "labelling, filtering or categorisation", "head_cat": "ACT", "type": "utilises", "tail": "biometric data", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "natural persons", "tail_cat": "PER"}
+{"head": "violate", "head_cat": "HAR", "type": "should_not_be", "tail": "right to dignity", "tail_cat": "ETH"}
+{"head": "violate", "head_cat": "HAR", "type": "should_not_be", "tail": "non-discrimination", "tail_cat": "ETH"}
+{"head": "violate", "head_cat": "HAR", "type": "should_not_be", "tail": "equality", "tail_cat": "ETH"}
+{"head": "violate", "head_cat": "HAR", "type": "should_not_be", "tail": "justice", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "data points", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "involved_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "interact_with", "tail": "natural persons", "tail_cat": "PER"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "social behaviour", "tail_cat": "ETH"}
+{"head": "natural persons", "head_cat": "PER", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "natural persons", "head_cat": "PER", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "Union law", "head_cat": "DOC", "type": "must_be", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "compliance", "head_cat": "ETH", "type": "utilises", "tail": "evaluation", "tail_cat": "ACT"}
+{"head": "systems", "head_cat": "SYS", "type": "regulates", "tail": "law enforcement", "tail_cat": "ORG"}
+{"head": "systems", "head_cat": "SYS", "type": "has_implications_for", "tail": "risks", "tail_cat": "ETH"}
+{"head": "natural persons", "head_cat": "PER", "type": "must_be", "tail": "safety", "tail_cat": "ETH"}
+{"head": "placing on the market", "head_cat": "ACT", "type": "involved_in", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "putting into service", "head_cat": "ACT", "type": "involved_in", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": " facial recognition databases", "tail_cat": "DAT"}
+{"head": "privacy", "head_cat": "ETH", "type": "has_implications_for", "tail": " facial recognition databases", "tail_cat": "DAT"}
+{"head": "rights", "head_cat": "ETH", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "interact_with", "tail": "natural persons", "tail_cat": "PER"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "biometric data", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "rights", "tail_cat": "ETH"}
+{"head": "rights", "head_cat": "ETH", "type": "has_implications_for", "tail": "biometric data", "tail_cat": "DAT"}
+{"head": "natural persons", "head_cat": "PER", "type": "utilises", "tail": "systems", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "putting into service", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "placing on the market", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "placed on the market", "tail_cat": "ACT"}
+{"head": "safety", "head_cat": "ETH", "type": "has_implications_for", "tail": "systems", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "must_be", "tail": "safety", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "systems", "head_cat": "SYS", "type": "contains", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "health", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_be", "tail": "safety", "tail_cat": "ETH"}
+{"head": "Union harmonisation legislation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "consider", "tail": "safety risks", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "are_central_to", "tail": "components", "tail_cat": "ALG"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "Regulation", "head_cat": "DOC", "type": "has_implications_for", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "right", "head_cat": "ETH", "type": "are_central_to", "tail": " Chart", "tail_cat": "DOC"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "high quality data", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "must_be", "tail": "transparent", "tail_cat": "ETH"}
+{"head": "rights", "head_cat": "ETH", "type": "is_affected_by", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "works_with", "tail": "law enforcement", "tail_cat": "ORG"}
+{"head": "AI system", "head_cat": "SYS", "type": "must_be", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "transparency", "head_cat": "ETH", "type": "certifies_or_validates", "tail": "accountability", "tail_cat": "ETH"}
+{"head": "Union", "head_cat": "ORG", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "risks", "head_cat": "ETH", "type": "relate_to", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "risks", "head_cat": "ETH", "type": "relate_to", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "Union", "head_cat": "ORG", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "Union", "head_cat": "ORG", "type": "utilises", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "governs_or_guides", "tail": "person", "tail_cat": "PER"}
+{"head": "Union", "head_cat": "ORG", "type": "governs_or_guides", "tail": "person", "tail_cat": "PER"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "governs_or_guides", "tail": "person", "tail_cat": "PER"}
+{"head": "evaluation", "head_cat": "ACT", "type": "has_implications_for", "tail": "person", "tail_cat": "PER"}
+{"head": "regulation", "head_cat": "DOC", "type": "regulates", "tail": " perso", "tail_cat": "PER"}
+{"head": "profiling", "head_cat": "ALG", "type": "certifies_or_validates", "tail": " natural person", "tail_cat": "PER"}
+{"head": "regulation", "head_cat": "DOC", "type": "regulates", "tail": " natural person", "tail_cat": "PER"}
+{"head": "natural person", "head_cat": "PER", "type": "contains", "tail": " characteristic", "tail_cat": "ETH"}
+{"head": "natural person", "head_cat": "PER", "type": "contains", "tail": " characteristic", "tail_cat": "ETH"}
+{"head": "characteristic", "head_cat": "ETH", "type": "applies_to", "tail": " natural person", "tail_cat": "PER"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "Union", "head_cat": "ORG", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_not_be", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "AI", "tail_cat": "ALG"}
+{"head": "AI", "head_cat": "ALG", "type": "has_implications_for", "tail": "rights", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_be", "tail": "non-discriminatory", "tail_cat": "ETH"}
+{"head": "transparency", "head_cat": "ETH", "type": "should_be", "tail": "non-discriminatory", "tail_cat": "ETH"}
+{"head": "rights", "head_cat": "ETH", "type": "contains", "tail": "non-discrimination", "tail_cat": "ETH"}
+{"head": "rights", "head_cat": "ETH", "type": "contains", "tail": "personal data", "tail_cat": "DAT"}
+{"head": "rights", "head_cat": "ETH", "type": "contains", "tail": "international", "tail_cat": "ORG"}
+{"head": "rights", "head_cat": "ETH", "type": "applies_to", "tail": "persons", "tail_cat": "PER"}
+{"head": "high-risk", "head_cat": "ETH", "type": "applies_to", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "Union", "head_cat": "ORG", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "assessment", "head_cat": "PRO", "type": "applies_to", "tail": "natural persons", "tail_cat": "PER"}
+{"head": "natural persons", "head_cat": "PER", "type": "can_be", "tail": "risks", "tail_cat": "ETH"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "Union", "head_cat": "ORG", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "democratic processes", "head_cat": "PRO", "type": "utilises", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "democratic processes", "head_cat": "PRO", "type": "can_be", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "risks", "head_cat": "ETH", "type": "contains", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "can_be", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "transparency", "head_cat": "ETH", "type": "are_central_to", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "Regulation", "head_cat": "DOC", "type": "certifies_or_validates", "tail": "risks", "tail_cat": "ETH"}
+{"head": "Charter", "head_cat": "DOC", "type": "contains", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "has_implications_for", "tail": "natural persons", "tail_cat": "PER"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "has_implications_for", "tail": "natural persons", "tail_cat": "PER"}
+{"head": "risk management system", "head_cat": "SYS", "type": "contains", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "risk management system", "head_cat": "SYS", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "contains", "tail": "risks", "tail_cat": "ETH"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "based_on", "tail": "systems", "tail_cat": "SYS"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "has_implications_for", "tail": "health", "tail_cat": "ETH"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "has_implications_for", "tail": "safety", "tail_cat": "ETH"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "has_implications_for", "tail": "rights", "tail_cat": "ETH"}
+{"head": "documentation", "head_cat": "ACT", "type": "governs_or_guides", "tail": "risk management system", "tail_cat": "SYS"}
+{"head": "Regulation", "head_cat": "DOC", "type": "contains", "tail": "documentation", "tail_cat": "ACT"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "risk management system", "tail_cat": "SYS"}
+{"head": "risks", "head_cat": "ETH", "type": "relate_to", "tail": "reasonably foreseeable misuse", "tail_cat": "HAR"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "has_implications_for", "tail": "health", "tail_cat": "ETH"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "has_implications_for", "tail": "rights", "tail_cat": "ETH"}
+{"head": "risks", "head_cat": "ETH", "type": "involved_in", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "utilises", "tail": "artificial intelligence", "tail_cat": "ALG"}
+{"head": "state of the art", "head_cat": "STA", "type": "contains", "tail": "AI", "tail_cat": "ALG"}
+{"head": "risk management system", "head_cat": "SYS", "type": "relate_to", "tail": "AI", "tail_cat": "ALG"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "stakeholders", "tail_cat": "PER"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "provider", "head_cat": "ORG", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "certifies_or_validates", "tail": "system", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "instructions for use", "tail_cat": "DOC"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "risks", "tail_cat": "ETH"}
+{"head": "deployer", "head_cat": "ORG", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "training", "head_cat": "ACT", "type": "consider", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "training", "head_cat": "ACT", "type": "require", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "AI system", "head_cat": "SYS", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "training", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "high quality data", "tail_cat": "DAT"}
+{"head": "models", "head_cat": "SYS", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "training", "head_cat": "ACT", "type": "require", "tail": "Union law", "tail_cat": "DOC"}
+{"head": "High quality data", "head_cat": "DAT", "type": "has_implications_for", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "training", "head_cat": "ACT", "type": "consider", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": " AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": " personal dat", "head_cat": "DAT", "type": "has_implications_for", "tail": " transparenc", "tail_cat": "ETH"}
+{"head": " person", "head_cat": "PER", "type": "are_central_to", "tail": "compliance", "tail_cat": "ETH"}
+{"head": " dataset", "head_cat": "DAT", "type": "require", "tail": " Union la", "tail_cat": "DOC"}
+{"head": " AI system", "head_cat": "SYS", "type": "utilises", "tail": " personal data", "tail_cat": "DAT"}
+{"head": "systems", "head_cat": "SYS", "type": "utilises", "tail": "datasets", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "datasets", "tail_cat": "DAT"}
+{"head": "development", "head_cat": "ACT", "type": "consider", "tail": "privacy-preserving", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "privacy-preserving", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "datasets", "tail_cat": "DAT"}
+{"head": "training", "head_cat": "ACT", "type": "require", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "testing", "head_cat": "ACT", "type": "consider", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "privacy", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "personal data", "tail_cat": "DAT"}
+{"head": "personal data", "head_cat": "DAT", "type": "has_implications_for", "tail": "privacy", "tail_cat": "ETH"}
+{"head": "training", "head_cat": "ACT", "type": "require", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "based_on", "tail": "algorithms", "tail_cat": "ALG"}
+{"head": "providers", "head_cat": "ORG", "type": "governs_or_guides", "tail": "data governance", "tail_cat": "PRO"}
+{"head": "AI system", "head_cat": "SYS", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "monitoring", "head_cat": "ACT", "type": "require", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "post market monitoring", "head_cat": "ACT", "type": "consider", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "systems", "head_cat": "SYS", "type": "involved_in", "tail": "post market monitoring", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "post market monitoring", "head_cat": "ACT", "type": "consider", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "involved_in", "tail": "documentation", "tail_cat": "ACT"}
+{"head": "training", "head_cat": "ACT", "type": "consider", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "risk management system", "head_cat": "SYS", "type": "based_on", "tail": "algorithms", "tail_cat": "ALG"}
+{"head": "risk management system", "head_cat": "SYS", "type": "involved_in", "tail": "documentation", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "involved_in", "tail": "documentation", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "involved_in", "tail": "automatic recording", "tail_cat": "ACT"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "put it into service", "tail_cat": "ACT"}
+{"head": "placed on the market", "head_cat": "ACT", "type": "require", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "placed on the market", "head_cat": "ACT", "type": "consider", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "deployers ", "head_cat": "PER", "type": "interact_with", "tail": " AI system", "tail_cat": "SYS"}
+{"head": "High-risk AI systems", "head_cat": "SYS", "type": "require", "tail": " instructions of use", "tail_cat": "DOC"}
+{"head": "AI system", "head_cat": "SYS", "type": "contains", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "human oversight measures", "head_cat": "PRO", "type": "contains", "tail": "interpretation of the outputs", "tail_cat": "ACT"}
+{"head": "system behaviour", "head_cat": "ALG", "type": "is_affected_by", "tail": "deployer", "tail_cat": "ORG"}
+{"head": "Transparency", "head_cat": "ETH", "type": "helps", "tail": "deployers", "tail_cat": "PER"}
+{"head": "instructions for use", "head_cat": "DOC", "type": "helps", "tail": "deployers", "tail_cat": "PER"}
+{"head": "deployers", "head_cat": "PER", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "instructions of use", "head_cat": "DOC", "type": "require", "tail": "illustrative examples", "tail_cat": "DAT"}
+{"head": "Providers", "head_cat": "ORG", "type": "interact_with", "tail": "documentation", "tail_cat": "ACT"}
+{"head": "instructions for use", "head_cat": "DOC", "type": "require", "tail": "comprehensive, accessible and understandable information", "tail_cat": "DAT"}
+{"head": "deployers", "head_cat": "PER", "type": "utilises", "tail": "Instructions for use", "tail_cat": "DOC"}
+{"head": "natural persons", "head_cat": "PER", "type": "interact_with", "tail": "High-risk AI systems", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "consider", "tail": "human oversight measures", "tail_cat": "PRO"}
+{"head": "provider", "head_cat": "ORG", "type": "perform_in", "tail": "placing on the market", "tail_cat": "ACT"}
+{"head": "provider", "head_cat": "ORG", "type": "perform_in", "tail": "putting into service", "tail_cat": "ACT"}
+{"head": "natural persons", "head_cat": "PER", "type": "perform_in", "tail": "human oversight", "tail_cat": "ETH"}
+{"head": "operator", "head_cat": "PER", "type": "utilises", "tail": "system", "tail_cat": "SYS"}
+{"head": "natural persons", "head_cat": "PER", "type": "require", "tail": "training", "tail_cat": "ACT"}
+{"head": "person", "head_cat": "PER", "type": "perform_in", "tail": "human oversight", "tail_cat": "ETH"}
+{"head": "person", "head_cat": "PER", "type": "has_implications_for", "tail": "risks", "tail_cat": "ETH"}
+{"head": "systems", "head_cat": "SYS", "type": "require", "tail": "human oversight", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "contains", "tail": "person", "tail_cat": "PER"}
+{"head": "Union", "head_cat": "ORG", "type": "governs_or_guides", "tail": "application of this requirement", "tail_cat": "ACT"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "require", "tail": "technical robustness", "tail_cat": "ETH"}
+{"head": "environment", "head_cat": "ETH", "type": "has_implications_for", "tail": "systems", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "contains", "tail": "components", "tail_cat": "ALG"}
+{"head": "components", "head_cat": "ALG", "type": "involved_in", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "Regulation", "head_cat": "DOC", "type": "regulates", "tail": "competent authorities", "tail_cat": "PER"}
+{"head": "provider", "head_cat": "ORG", "type": "utilises", "tail": "AI", "tail_cat": "ALG"}
+{"head": "components", "head_cat": "ALG", "type": "require", "tail": "documentation", "tail_cat": "ACT"}
+{"head": "risks", "head_cat": "ETH", "type": "based_on", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "risks", "head_cat": "ETH", "type": "based_on", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "can_be", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "can_be", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "natural persons", "head_cat": "PER", "type": "is_affected_by", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "rights", "head_cat": "ETH", "type": "has_implications_for", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "can_be", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "assessment", "head_cat": "PRO", "type": "based_on", "tail": "rights", "tail_cat": "ETH"}
+{"head": "models", "head_cat": "SYS", "type": "should_not_be", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI", "head_cat": "ALG", "type": "contains", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "models", "head_cat": "SYS", "type": "can_be", "tail": "placed on the market", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "contains", "tail": "models", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_not_be", "tail": "models", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "contains", "tail": "components", "tail_cat": "ALG"}
+{"head": "AI system", "head_cat": "SYS", "type": "contains", "tail": "models", "tail_cat": "SYS"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "models", "tail_cat": "SYS"}
+{"head": "models", "head_cat": "SYS", "type": "has_implications_for", "tail": "risks", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "perform_in", "tail": "placed on the market", "tail_cat": "ACT"}
+{"head": "models", "head_cat": "SYS", "type": "involved_in", "tail": "placed on the market", "tail_cat": "ACT"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "models", "tail_cat": "SYS"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "perform_in", "tail": "placed on the market", "tail_cat": "ACT"}
+{"head": "rights", "head_cat": "ETH", "type": "applies_to", "tail": "natural persons", "tail_cat": "PER"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "models", "tail_cat": "SYS"}
+{"head": "Regulation", "head_cat": "DOC", "type": "has_implications_for", "tail": "systemic risk", "tail_cat": "HAR"}
+{"head": "models", "head_cat": "SYS", "type": "can_be", "tail": "placing on the market", "tail_cat": "ACT"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "placed on the market", "tail_cat": "ACT"}
+{"head": "models", "head_cat": "SYS", "type": "perform_in", "tail": "generation of content", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "contains", "tail": "AI", "tail_cat": "ALG"}
+{"head": "AI system", "head_cat": "SYS", "type": "perform_in", "tail": "used", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "perform_in", "tail": "integrated", "tail_cat": "ACT"}
+{"head": "Providers", "head_cat": "ORG", "type": "perform_in", "tail": "role and responsibility", "tail_cat": "ACT"}
+{"head": "role and responsibility", "head_cat": "ACT", "type": "perform_in", "tail": "AI value chain", "tail_cat": "SYS"}
+{"head": "models", "head_cat": "SYS", "type": "involved_in", "tail": "basis for a range of downstreamsystems", "tail_cat": "ACT"}
+{"head": "downstream providers", "head_cat": "ORG", "type": "perform_in", "tail": "good understanding of the models and their capabilities", "tail_cat": "ACT"}
+{"head": "transparency measures", "head_cat": "ETH", "type": "perform_in", "tail": "foreseen", "tail_cat": "ORG"}
+{"head": "provision of information", "head_cat": "ACT", "type": "involved_in", "tail": "downstream providers", "tail_cat": "ORG"}
+{"head": "Technical documentation", "head_cat": "DOC", "type": "require", "tail": "prepared and kept up to date", "tail_cat": "ACT"}
+{"head": "prepared and kept up to date", "head_cat": "ACT", "type": "require", "tail": "general purpose AI model provider", "tail_cat": "ORG"}
+{"head": "purpose of making it available, upon request", "head_cat": "ACT", "type": "perform_in", "tail": "AI Office and the national competent authorities", "tail_cat": "ORG"}
+{"head": "The minimal set of elements contained in such documentations", "head_cat": "DOC", "type": "require", "tail": "should be outlined", "tail_cat": "ACT"}
+{"head": "should be outlined", "head_cat": "ACT", "type": "require", "tail": "Annex (IXb) and Annex (IXa)", "tail_cat": "DOC"}
+{"head": "General purpose models, in particular large generative models", "head_cat": "SYS", "type": "perform_in", "tail": "capable of generating text, images, and other content", "tail_cat": "ACT"}
+{"head": "General purpose models, in particular large generative models", "head_cat": "SYS", "type": "involved_in", "tail": "present unique innovation opportunities but also challenges", "tail_cat": "ACT"}
+{"head": "present unique innovation opportunities but also challenges", "head_cat": "ACT", "type": "involved_in", "tail": "artists, authors, and other creators", "tail_cat": "PER"}
+{"head": "The development and training of such models", "head_cat": "ACT", "type": "require", "tail": "require access to vast amounts of text, images, videos, and other data", "tail_cat": "ACT"}
+{"head": "Text and data mining techniques", "head_cat": "SYS", "type": "perform_in", "tail": "may be used extensively in this context for the retrieval and analysis of such content", "tail_cat": "ACT"}
+{"head": "content", "head_cat": "DAT", "type": "has_implications_for", "tail": "may be protected by copyright and related rights", "tail_cat": "ACT"}
+{"head": "Any use of copyright protected content", "head_cat": "ACT", "type": "require", "tail": "requires the authorization of the rightholder concerned", "tail_cat": "ACT"}
+{"head": "Providers that place general purpose AI models on the EU market", "head_cat": "ORG", "type": "perform_in", "tail": "should ensure compliance with the relevant obligations in this Regulation", "tail_cat": "ACT"}
+{"head": "providers of general purpose AI models", "head_cat": "ORG", "type": "perform_in", "tail": "should put in place a policy to respect Union law on copyright and related rights", "tail_cat": "ACT"}
+{"head": " provider placing a general purpose AI model on the EU market", "head_cat": "ORG", "type": "perform_in", "tail": "should comply with this obligation", "tail_cat": "ACT"}
+{"head": "level playing field among providers of general purpose AI models", "head_cat": "SYS", "type": "involved_in", "tail": "no provider should be able to gain a competitive advantage in the EU market", "tail_cat": "ACT"}
+{"head": "General purpose AI models", "head_cat": "SYS", "type": "involved_in", "tail": "could pose systemic risks", "tail_cat": "ACT"}
+{"head": "Systemic risks", "head_cat": "SYS", "type": "involved_in", "tail": "should be understood to increase with model capabilities and model reach", "tail_cat": "ACT"}
+{"head": "international approaches", "head_cat": "SYS", "type": "involved_in", "tail": " need to devote attention to risks from potential intentional misuse or unintended issues of control relating to alignment with human intent", "tail_cat": "ACT"}
+{"head": "chemical, biological, radiological, and nuclear risks", "head_cat": "ACT", "type": "involved_in", "tail": "barriers to entry can be lowered, including for weapons development, design acquisition, or use", "tail_cat": "ACT"}
+{"head": "offensive cyber capabilities", "head_cat": "SYS", "type": "perform_in", "tail": "vulnerability discovery, exploitation, or operational use can be enabled", "tail_cat": "ACT"}
+{"head": " effects of interaction and tool use", "head_cat": "ACT", "type": "involved_in", "tail": "capacity to control physical systems and interfere with critical infrastructure", "tail_cat": "ACT"}
+{"head": "establish a methodology for the classification of general purpose AI models", "head_cat": "ACT", "type": "involved_in", "tail": "general purpose AI model with systemic risks", "tail_cat": "SYS"}
+{"head": "general-purpose AI models", "head_cat": "SYS", "type": "involved_in", "tail": "should be considered to present systemic risks if it has high-impact capabilities", "tail_cat": "ACT"}
+{"head": "High-impact capabilities in general purpose AI models", "head_cat": "SYS", "type": "involved_in", "tail": "capabilities that match or exceed the capabilities recorded in the most advanced general-purpose AI models", "tail_cat": "ACT"}
+{"head": "full range of capabilities in a model", "head_cat": "SYS", "type": "involved_in", "tail": "could be better understood after its release on the market or when users interact with the model", "tail_cat": "ACT"}
+{"head": " providers of general-purpose AI models presenting systemic risks", "head_cat": "ORG", "type": "perform_in", "tail": " should be subject, in addition to the obligations provided for providers of general purpose AI models, to obligations aimed at identifying and mitigating those risks and ensuring an adequate level of cybersecurity protection", "tail_cat": "ACT"}
+{"head": "Regulation", "head_cat": "ORG", "type": "require", "tail": "providers", "tail_cat": "ORG"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "systems", "head_cat": "SYS", "type": "require", "tail": "effective implementation", "tail_cat": "ACT"}
+{"head": "Regulation (EU) 2022/2065", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "is_affected_by", "tail": "risks", "tail_cat": "ETH"}
+{"head": "risks", "head_cat": "ETH", "type": "has_implications_for", "tail": "democratic processes", "tail_cat": "PRO"}
+{"head": "risks", "head_cat": "ETH", "type": "has_implications_for", "tail": "civic discourse", "tail_cat": "PRO"}
+{"head": "risks", "head_cat": "ETH", "type": "has_implications_for", "tail": "electoral processes", "tail_cat": "PRO"}
+{"head": "AI system", "head_cat": "SYS", "type": "regulates", "tail": "substantial modification", "tail_cat": "ACT"}
+{"head": "Union harmonisation legislation", "head_cat": "DOC", "type": "regulates", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "Regulation", "head_cat": "DOC", "type": "based_on", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "compliance", "head_cat": "ETH", "type": "are_central_to", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "the Commission", "head_cat": "ORG", "type": "regulates", "tail": "artificial intelligence", "tail_cat": "ALG"}
+{"head": "the Commission", "head_cat": "ORG", "type": "require", "tail": "transparency towards the public", "tail_cat": "ETH"}
+{"head": "Union harmonisation legislation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "the Member States", "tail_cat": "ORG"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "require", "tail": "transparency towards the public", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "has_implications_for", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "the Commission", "head_cat": "ORG", "type": "regulates", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "high-risk", "head_cat": "ETH", "type": "has_implications_for", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "systems", "head_cat": "SYS", "type": "has_implications_for", "tail": "risks", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "systems", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "system", "tail_cat": "SYS"}
+{"head": "deployers", "head_cat": "PER", "type": "involved_in", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": " image, audio or video content", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "must_not_be", "tail": "falsely", "tail_cat": "HAR"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "must_not_be", "tail": "falsely", "tail_cat": "HAR"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "must_be", "tail": "authentic", "tail_cat": "ETH"}
+{"head": "artificial intelligence", "head_cat": "ALG", "type": "must_be", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "must_be", "tail": "authentic", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "must_be", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "rights and freedoms", "head_cat": "ETH", "type": "are_central_to", "tail": "third parties", "tail_cat": "PER"}
+{"head": "Charter of Fundamental Rights of the EU", "head_cat": "DOC", "type": "regulates", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "Charter of Fundamental Rights of the EU", "head_cat": "DOC", "type": "based_on", "tail": "freedom of the arts and sciences", "tail_cat": "ETH"}
+{"head": "Charter of Fundamental Rights of the EU", "head_cat": "DOC", "type": "based_on", "tail": " freedom of expression", "tail_cat": "ETH"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "Regulation", "head_cat": "DOC", "type": "require", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "person", "head_cat": "PER", "type": "applies_to", "tail": "public interest", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "systems", "tail_cat": "SYS"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "require", "tail": "testing", "tail_cat": "ACT"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "require", "tail": "development", "tail_cat": "ACT"}
+{"head": "AI", "head_cat": "ALG", "type": "require", "tail": "testing", "tail_cat": "ACT"}
+{"head": "providers", "head_cat": "ORG", "type": "is_affected_by", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "providers", "head_cat": "ORG", "type": "involved_in", "tail": "testing", "tail_cat": "ACT"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "regulates", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "natural persons", "head_cat": "PER", "type": "involved_in", "tail": "testing", "tail_cat": "ACT"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "are_central_to", "tail": "testing", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "testing", "tail_cat": "ACT"}
+{"head": "Consent of subjects", "head_cat": "ETH", "type": "require", "tail": "testing", "tail_cat": "ACT"}
+{"head": "personal data", "head_cat": "DAT", "type": "are_central_to", "tail": "Consent of subjects", "tail_cat": "ETH"}
+{"head": "Regulation", "head_cat": "DOC", "type": "should_be", "tail": "testing", "tail_cat": "ACT"}
+{"head": "risks", "head_cat": "ETH", "type": "are_central_to", "tail": "testing", "tail_cat": "ACT"}
+{"head": "competent authorities", "head_cat": "PER", "type": "governs_or_guides", "tail": "oversight", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "regulates", "tail": "competent authorities", "tail_cat": "PER"}
+{"head": "market surveillance authority", "head_cat": "ORG", "type": "involved_in", "tail": "testing", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "is_affected_by", "tail": "risks", "tail_cat": "ETH"}
+{"head": "oversight", "head_cat": "ETH", "type": "applies_to", "tail": "testing", "tail_cat": "ACT"}
+{"head": "providers", "head_cat": "ORG", "type": "utilises", "tail": "testing", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "predictions", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "utilises", "tail": "personal data", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "require", "tail": "testing", "tail_cat": "ACT"}
+{"head": "rights", "head_cat": "ETH", "type": "are_central_to", "tail": "EU data protection law", "tail_cat": "DOC"}
+{"head": "predictions", "head_cat": "ACT", "type": "require", "tail": "personal data", "tail_cat": "DAT"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "rights", "tail_cat": "ETH"}
+{"head": "Union law", "head_cat": "DOC", "type": "governs_or_guides", "tail": "personal data", "tail_cat": "DAT"}
+{"head": "testing", "head_cat": "ACT", "type": "require", "tail": "personal data", "tail_cat": "DAT"}
+{"head": "Data Governance", "head_cat": "PRO", "type": "governs_or_guides", "tail": "Union law", "tail_cat": "DOC"}
+{"head": "testing", "head_cat": "ACT", "type": "involved_in", "tail": "Data Governance", "tail_cat": "PRO"}
+{"head": "providers", "head_cat": "ORG", "type": "works_with", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "development", "head_cat": "ACT", "type": "are_central_to", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "post-market monitoring system", "tail_cat": "SYS"}
+{"head": "Post-market monitoring", "head_cat": "ACT", "type": "must_not_be", "tail": "sensitive operational data", "tail_cat": "DAT"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "regulates", "tail": "sensitive operational data", "tail_cat": "DAT"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "involved_in", "tail": "Post-market monitoring", "tail_cat": "ACT"}
+{"head": "risks", "head_cat": "ETH", "type": "are_central_to", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "placed on the market", "tail_cat": "ACT"}
+{"head": "providers", "head_cat": "ORG", "type": "works_with", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "should_not_be", "tail": "malfunctioning", "tail_cat": "HAR"}
+{"head": "providers", "head_cat": "ORG", "type": "should_be", "tail": "report to the relevant authorities", "tail_cat": "ACT"}
+{"head": "AI system", "head_cat": "SYS", "type": "relate_to", "tail": "rights", "tail_cat": "ETH"}
+{"head": "Union law", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI system", "tail_cat": "SYS"}
+{"head": "AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "regulates", "tail": "Regulation", "tail_cat": "DOC"}
+{"head": "Regulation", "head_cat": "DOC", "type": "involved_in", "tail": "safety", "tail_cat": "ETH"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "biometric identification", "tail_cat": "ALG"}
+{"head": " Regulatio", "head_cat": "DOC", "type": "require", "tail": " complianc", "tail_cat": "ETH"}
+{"head": "AI", "head_cat": "ALG", "type": "should_be", "tail": "trustworthy", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "require", "tail": "data governance", "tail_cat": "PRO"}
+{"head": "AI systems", "head_cat": "SYS", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "stakeholders", "head_cat": "PER", "type": "are_central_to", "tail": "ethical principles", "tail_cat": "ETH"}
+{"head": "systems", "head_cat": "SYS", "type": "utilises", "tail": " biometric dat", "tail_cat": "DAT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "natural persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety", "tail_cat": "ETH"}
+{"head": "natural persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "utilises", "tail": "input data", "tail_cat": "DAT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "utilises", "tail": "biometric data", "tail_cat": "DAT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "consider", "tail": "placing on the market", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "health", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "health", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "rights", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "involved_in", "tail": "malfunctioning", "tail_cat": "ACT"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "health", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "failure", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "malfunctioning", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "health", "tail_cat": "ETH"}
+{"head": "failure", "head_cat": "ACT", "type": "consider", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "failure", "head_cat": "ACT", "type": "consider", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "failure", "head_cat": "ACT", "type": "consider", "tail": "health", "tail_cat": "ETH"}
+{"head": "malfunctioning", "head_cat": "ACT", "type": "consider", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "malfunctioning", "head_cat": "ACT", "type": "consider", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "malfunctioning", "head_cat": "ACT", "type": "consider", "tail": "health", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "failure", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "malfunctioning", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "health", "tail_cat": "ETH"}
+{"head": "Failure", "head_cat": "ACT", "type": "consider", "tail": "risks", "tail_cat": "ETH"}
+{"head": "Failure", "head_cat": "ACT", "type": "consider", "tail": "physical integrity", "tail_cat": "ETH"}
+{"head": "Failure", "head_cat": "ACT", "type": "consider", "tail": "health", "tail_cat": "ETH"}
+{"head": "Failure", "head_cat": "ACT", "type": "consider", "tail": "safety", "tail_cat": "ETH"}
+{"head": "malfunctioning", "head_cat": "ACT", "type": "consider", "tail": "risks", "tail_cat": "ETH"}
+{"head": "malfunctioning", "head_cat": "ACT", "type": "consider", "tail": "physical integrity", "tail_cat": "ETH"}
+{"head": "malfunctioning", "head_cat": "ACT", "type": "consider", "tail": "health", "tail_cat": "ETH"}
+{"head": "malfunctioning", "head_cat": "ACT", "type": "consider", "tail": "safety", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "risks", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "physical integrity", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "health", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "safety", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "risks", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "physical integrity", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "health", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "fire alarm controlling systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "cloud computing centres", "head_cat": "ORG", "type": "is_affected_by", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "cloud computing centres", "head_cat": "ORG", "type": "interact_with", "tail": "infrastructure", "tail_cat": "SYS"}
+{"head": "cloud computing centres", "head_cat": "ORG", "type": "interact_with", "tail": "monitoring water pressure", "tail_cat": "SYS"}
+{"head": "cloud computing centres", "head_cat": "ORG", "type": "interact_with", "tail": "fire alarm controlling systems", "tail_cat": "SYS"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "evaluating", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "monitoring", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": " secur", "tail_cat": "ETH"}
+{"head": "training", "head_cat": "ACT", "type": "consider", "tail": " secur", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "evaluating", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "monitoring", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": " secur", "tail_cat": "ETH"}
+{"head": "evaluating", "head_cat": "ACT", "type": "consider", "tail": " secur", "tail_cat": "ETH"}
+{"head": "monitoring", "head_cat": "ACT", "type": "consider", "tail": " secur", "tail_cat": "ETH"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "evaluating", "tail_cat": "ACT"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "monitoring", "tail_cat": "ACT"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": " secur", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "selection of persons", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "terms of the work", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "promotion", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "contractual relationships", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "individual behaviour", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "personal traits", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "career prospects", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "livelihoods", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "workers\u2019 rights", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "self-employment", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "recruitment", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "selection of persons", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "terms of the work", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "promotion", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "contractual relationships", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "personal traits", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "career prospects", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "livelihoods", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "workers\u2019 rights", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "contractual relationships", "tail_cat": "ETH"}
+{"head": "systems", "head_cat": "SYS", "type": "involved_in", "tail": "recruitment", "tail_cat": "ACT"}
+{"head": "systems", "head_cat": "SYS", "type": "involved_in", "tail": "promotion", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": " right", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": " non-discriminatio", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": " human dignit", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": " high-ris", "tail_cat": "ETH"}
+{"head": "systems", "head_cat": "SYS", "type": "is_affected_by", "tail": " right", "tail_cat": "ETH"}
+{"head": "systems", "head_cat": "SYS", "type": "is_affected_by", "tail": " human dignit", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "natural persons", "head_cat": "PER", "type": "perform_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "s high-ri", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "health", "tail_cat": "ETH"}
+{"head": "natural persons", "head_cat": "PER", "type": "perform_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "natural persons", "head_cat": "PER", "type": "are_central_to", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "natural persons", "head_cat": "PER", "type": "are_central_to", "tail": "health", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "perform_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "health", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "require", "tail": "high quality data", "tail_cat": "DAT"}
+{"head": "AI", "head_cat": "ALG", "type": "has_implications_for", "tail": "rights", "tail_cat": "ETH"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "risk management system", "tail_cat": "SYS"}
+{"head": "risk management system", "head_cat": "SYS", "type": "relate_to", "tail": "AI", "tail_cat": "ALG"}
+{"head": "deployer", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "training", "head_cat": "ACT", "type": "require", "tail": "data governance", "tail_cat": "PRO"}
+{"head": "AI systems", "head_cat": "SYS", "type": "utilises", "tail": "datasets", "tail_cat": "DAT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "artificial intelligence algorithms", "head_cat": "ALG", "type": "require", "tail": "transparent", "tail_cat": "ETH"}
+{"head": "artificial intelligence algorithms", "head_cat": "ALG", "type": "require", "tail": "trustworthy", "tail_cat": "ETH"}
+{"head": "artificial intelligence algorithms", "head_cat": "ALG", "type": "require", "tail": "institutional governance", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "training", "head_cat": "ACT", "type": "consider", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "training", "head_cat": "ACT", "type": "require", "tail": "data governance", "tail_cat": "PRO"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "post market monitoring", "head_cat": "ACT", "type": "consider", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "automatic recording", "tail_cat": "ACT"}
+{"head": "instructions for use", "head_cat": "DOC", "type": "require", "tail": "Transparency", "tail_cat": "ETH"}
+{"head": "provider", "head_cat": "ORG", "type": "perform_in", "tail": "placing on the market", "tail_cat": "ACT"}
+{"head": "provider", "head_cat": "ORG", "type": "perform_in", "tail": "putting into service", "tail_cat": "ACT"}
+{"head": "person", "head_cat": "PER", "type": "perform_in", "tail": "human oversight", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "infrastructure", "tail_cat": "SYS"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "cybersecurity", "tail_cat": "ETH"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "cybersecurity", "tail_cat": "ETH"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "cybersecurity", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "cybersecurity", "tail_cat": "ETH"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "cybersecurity", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "diversity", "tail_cat": "ETH"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "biometric identification", "tail_cat": "ALG"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "systems", "tail_cat": "SYS"}
+{"head": "deployer", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "models", "head_cat": "SYS", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "models", "head_cat": "SYS", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "pre-training", "head_cat": "SYS", "type": "require", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "training", "head_cat": "ACT", "type": "require", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "AI", "head_cat": "ALG", "type": "require", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "models", "head_cat": "SYS", "type": "require", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "models", "tail_cat": "SYS"}
+{"head": "Regulation", "head_cat": "DOC", "type": "governs_or_guides", "tail": "AI", "tail_cat": "ALG"}
+{"head": "AI", "head_cat": "ALG", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "models", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": " AI value chai", "tail_cat": "ETH"}
+{"head": "Providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": " high-risk AI system", "head_cat": "SYS", "type": "is_affected_by", "tail": " complianc", "tail_cat": "ETH"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "systems", "tail_cat": "SYS"}
+{"head": "natural persons", "head_cat": "PER", "type": "are_central_to", "tail": "health", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "systems", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "deep fakes", "head_cat": "ETH", "type": "require", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "Regulation", "head_cat": "DOC", "type": "require", "tail": "transparency", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "AI systems", "head_cat": "SYS", "type": "utilises", "tail": "personal data", "tail_cat": "DAT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "enforcement", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "rights", "tail_cat": "ETH"}
+{"head": "e failu", "head_cat": "ACT", "type": "consider", "tail": "a safe", "tail_cat": "ETH"}
+{"head": "e failu", "head_cat": "ACT", "type": "consider", "tail": "e heal", "tail_cat": "ETH"}
+{"head": "e failu", "head_cat": "ACT", "type": "consider", "tail": "d safe", "tail_cat": "ETH"}
+{"head": "r malfunctioni", "head_cat": "ACT", "type": "consider", "tail": "a safe", "tail_cat": "ETH"}
+{"head": "r malfunctioni", "head_cat": "ACT", "type": "consider", "tail": "e heal", "tail_cat": "ETH"}
+{"head": "r malfunctioni", "head_cat": "ACT", "type": "consider", "tail": "d safe", "tail_cat": "ETH"}
+{"head": "Providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "AI", "tail_cat": "ALG"}
+{"head": "Testing", "head_cat": "ACT", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "Training", "head_cat": "ACT", "type": "require", "tail": "data governance", "tail_cat": "PRO"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "characteristics", "tail_cat": "ETH"}
+{"head": "High-risk AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "automatic recording", "tail_cat": "ACT"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "cybersecurity", "tail_cat": "ETH"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "high-risk AI systems", "head_cat": "SYS", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "Providers", "head_cat": "ORG", "type": "interact_with", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "Providers", "head_cat": "ORG", "type": "interact_with", "tail": " high-risk AI system", "tail_cat": "SYS"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "high-risk AI systems", "tail_cat": "SYS"}
+{"head": "law enforcement", "head_cat": "ORG", "type": "utilises", "tail": "biometric identification", "tail_cat": "ALG"}
+{"head": "market surveillance authority", "head_cat": "ORG", "type": "utilises", "tail": "systems", "tail_cat": "SYS"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}
+{"head": "deployer", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "natural persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety", "tail_cat": "ETH"}
+{"head": "AI", "head_cat": "ALG", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "The Commission", "head_cat": "ORG", "type": "governs_or_guides", "tail": "AI", "tail_cat": "ALG"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "documentation", "head_cat": "ACT", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "Providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "the AI Office", "head_cat": "ORG", "type": "governs_or_guides", "tail": "AI", "tail_cat": "ALG"}
+{"head": "the AI Office", "head_cat": "ORG", "type": "regulates", "tail": "AI", "tail_cat": "ALG"}
+{"head": "AI", "head_cat": "ALG", "type": "utilises", "tail": "personal data", "tail_cat": "DAT"}
+{"head": "testing", "head_cat": "ACT", "type": "require", "tail": "Union law", "tail_cat": "DOC"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "documentation", "head_cat": "ACT", "type": "require", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "the AI Office", "head_cat": "ORG", "type": "governs_or_guides", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "health", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "safety", "tail_cat": "ETH"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "rights", "tail_cat": "ETH"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "providers", "head_cat": "ORG", "type": "interact_with", "tail": "AI", "tail_cat": "ALG"}
+{"head": "AI systems", "head_cat": "SYS", "type": "involved_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "infrastructure", "head_cat": "SYS", "type": "is_affected_by", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "safety components", "tail_cat": "ETH"}
+{"head": "natural persons", "head_cat": "PER", "type": "perform_in", "tail": "training", "tail_cat": "ACT"}
+{"head": "AI", "head_cat": "ALG", "type": "involved_in", "tail": "promotion", "tail_cat": "ACT"}
+{"head": "AI", "head_cat": "ALG", "type": "involved_in", "tail": "termination", "tail_cat": "ACT"}
+{"head": "persons", "head_cat": "PER", "type": "are_central_to", "tail": "contractual relationships", "tail_cat": "ETH"}
+{"head": "natural persons", "head_cat": "PER", "type": "perform_in", "tail": "evaluate", "tail_cat": "ACT"}
+{"head": "provider", "head_cat": "ORG", "type": "interact_with", "tail": "AI systems", "tail_cat": "SYS"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "compliance", "tail_cat": "ETH"}
+{"head": "AI systems", "head_cat": "SYS", "type": "is_affected_by", "tail": "high-risk", "tail_cat": "ETH"}

@@ -1,0 +1,84 @@
+[
+    {
+      "title": "Legal text about AI",
+      "sents": [["Such", "AI", "systems", "evaluate", "or", "classify", "natural", "persons", "or", "groups", "thereof", "based", "on", "multiple", "data", "points", "related", "to", "their", "social", "behaviour", "in", "multiple", "contexts", "or", "known", ",", "inferred", "or", "predicted", "personal", "or", "personality", "characteristics", "over", "certain", "periods", "of", "time"]],
+      "vertexSet": [
+        {
+          "pos": [1, 3],
+          "type": "SYS",
+          "sent_id": 0,
+          "name": "AI systems"
+        },
+        {
+          "pos": [3, 4],
+          "type": "ACT",
+          "sent_id": 0,
+          "name": "evaluate"
+        },
+        {
+          "pos": [6, 8],
+          "type": "PER",
+          "sent_id": 0,
+          "name": "natural persons"
+        },
+        {
+          "pos": [32, 33],
+          "type": "ETH",
+          "sent_id": 0,
+          "name": "characteristics"
+        }
+      ],
+      "labels": [
+        {
+          "r": "P1",
+          "h": 0,
+          "t": 2,
+          "evidence": [0]
+        },
+        {
+          "r": "P1",
+          "h": 2,
+          "t": 0,
+          "evidence": [0]
+        },
+        {
+          "r": "P23",
+          "h": 2,
+          "t": 3,
+          "evidence": [0]
+        }
+      ]
+    },
+    {
+      "title": "Legal text about AI",
+      "sents": [["The", "social", "score", "obtained", "from", "such", "AI", "systems", "may", "lead", "to", "the", "detrimental", "or", "unfavourable", "treatment", "of", "natural", "persons", "or", "whole", "groups", "thereof", "in", "social", "contexts,", "which", "are", "unrelated", "to", "the", "context", "in", "which", "the", "data", "was", "originally", "generated", "or", "collected", "or", "to", "a", "detrimental", "treatment", "that", "is", "disproportionate", "or", "unjustified", "to", "the", "gravity", "of", "their", "social", "behaviour"]],
+      "vertexSet": [
+        {
+          "pos": [6, 8],
+          "type": "SYS",
+          "sent_id": 0,
+          "name": "AI systems"
+        },
+        {
+          "pos": [17, 19],
+          "type": "PER",
+          "sent_id": 0,
+          "name": "natural persons"
+        }
+      ],
+      "labels": [
+        {
+          "r": "P10",
+          "h": 0,
+          "t": 1,
+          "evidence": [0]
+        },
+        {
+          "r": "P12",
+          "h": 1,
+          "t": 0,
+          "evidence": [0]
+        }
+      ]
+    }
+  ]

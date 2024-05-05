@@ -1,0 +1,5412 @@
+[
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Any",
+                "use",
+                "of",
+                "copyright",
+                "protected",
+                "content",
+                "requires",
+                "the",
+                "authorization",
+                "of",
+                "the",
+                "rightholder",
+                "concerned",
+                "unless",
+                "relevant",
+                "copyright",
+                "exceptions",
+                "and",
+                "limitations",
+                "apply"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        0,
+                        6
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "Any use of copyright protected content"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        6,
+                        13
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "requires the authorization of the rightholder concerned"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        13,
+                        20
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": " unless relevant copyright exceptions and limitations apply"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P8",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Providers",
+                "that",
+                "place",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                "on",
+                "the",
+                "EU",
+                "market",
+                "should",
+                "ensure",
+                "compliance",
+                "with",
+                "the",
+                "relevant",
+                "obligations",
+                "in",
+                "this",
+                "Regulation"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        0,
+                        11
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "Providers that place general purpose AI models on the EU market"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        11,
+                        21
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "should ensure compliance with the relevant obligations in this Regulation"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P2",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "For",
+                "this",
+                "purpose",
+                ",",
+                "providers",
+                "of",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                "should",
+                "put",
+                "in",
+                "place",
+                "a",
+                "policy",
+                "to",
+                "respect",
+                "Union",
+                "law",
+                "on",
+                "copyright",
+                "and",
+                "related",
+                "rights",
+                ",",
+                "in",
+                "particular",
+                "to",
+                "identify",
+                "and",
+                "respect",
+                "the",
+                "reservations",
+                "of",
+                "rights",
+                "expressed",
+                "by",
+                "rightholders",
+                "pursuant",
+                "to",
+                "Article",
+                "4",
+                "3",
+                "of",
+                "Directive",
+                "EU",
+                "2019",
+                "790"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        4,
+                        10
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers of general purpose AI models"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        25
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "should put in place a policy to respect Union law on copyright and related rights"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        29,
+                        49
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "identify and respect the reservations of rights expressed by rightholders pursuant to Article 4(3) of Directive (EU) 2019/790"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P2",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Any",
+                "provider",
+                "placing",
+                "a",
+                "general",
+                "purpose",
+                "AI",
+                "model",
+                "on",
+                "the",
+                "EU",
+                "market",
+                "should",
+                "comply",
+                "with",
+                "this",
+                "obligation",
+                ",",
+                "regardless",
+                "of",
+                "the",
+                "jurisdiction",
+                "in",
+                "which",
+                "the",
+                "copyright",
+                "relevant",
+                "acts",
+                "underpinning",
+                "the",
+                "training",
+                "of",
+                "these",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                "take",
+                "place"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        1,
+                        12
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": " provider placing a general purpose AI model on the EU market"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        12,
+                        17
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "should comply with this obligation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        18,
+                        39
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "regardless of the jurisdiction in which the copyright-relevant acts underpinning the training of these general purpose AI models take place"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P2",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "This",
+                "is",
+                "necessary",
+                "to",
+                "ensure",
+                "a",
+                "level",
+                "playing",
+                "field",
+                "among",
+                "providers",
+                "of",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                "where",
+                "no",
+                "provider",
+                "should",
+                "be",
+                "able",
+                "to",
+                "gain",
+                "a",
+                "competitive",
+                "advantage",
+                "in",
+                "the",
+                "EU",
+                "market",
+                "by",
+                "applying",
+                "lower",
+                "copyright",
+                "standards",
+                "than",
+                "those",
+                "provided",
+                "in",
+                "the",
+                "Union"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        6,
+                        16
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "level playing field among providers of general purpose AI models"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        17,
+                        31
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "no provider should be able to gain a competitive advantage in the EU market"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        31,
+                        42
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "by applying lower copyright standards than those provided in the Union"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "General",
+                "purpose",
+                "AI",
+                "models",
+                "could",
+                "pose",
+                "systemic",
+                "risks",
+                "which",
+                "include",
+                ",",
+                "but",
+                "are",
+                "not",
+                "limited",
+                "to",
+                ",",
+                "any",
+                "actual",
+                "or",
+                "reasonably",
+                "foreseeable",
+                "negative",
+                "effects",
+                "in",
+                "relation",
+                "to",
+                "major",
+                "accidents",
+                ",",
+                "disruptions",
+                "of",
+                "critical",
+                "sectors",
+                "and",
+                "serious",
+                "consequences",
+                "to",
+                "public",
+                "health",
+                "and",
+                "safety",
+                ";",
+                "any",
+                "actual",
+                "or",
+                "reasonably",
+                "foreseeable",
+                "negative",
+                "effects",
+                "on",
+                "democratic",
+                "processes",
+                ",",
+                "public",
+                "and",
+                "economic",
+                "security",
+                ";",
+                "the",
+                "dissemination",
+                "of",
+                "illegal",
+                ",",
+                "false",
+                ",",
+                "or",
+                "discriminatory",
+                "content"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        0,
+                        4
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "General purpose AI models"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        4,
+                        8
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "could pose systemic risks"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        27,
+                        42
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "major accidents, disruptions of critical sectors and serious consequences to public health and safety"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        22,
+                        32
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "negative effects on democratic processes, public and economic security"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        59,
+                        69
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "the dissemination of illegal, false, or discriminatory content"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Systemic",
+                "risks",
+                "should",
+                "be",
+                "understood",
+                "to",
+                "increase",
+                "with",
+                "model",
+                "capabilities",
+                "and",
+                "model",
+                "reach",
+                ",",
+                "can",
+                "arise",
+                "along",
+                "the",
+                "entire",
+                "lifecycle",
+                "of",
+                "the",
+                "model",
+                ",",
+                "and",
+                "are",
+                "influenced",
+                "by",
+                "conditions",
+                "of",
+                "misuse",
+                ",",
+                "model",
+                "reliability",
+                ",",
+                "model",
+                "fairness",
+                "and",
+                "model",
+                "security",
+                ",",
+                "the",
+                "degree",
+                "of",
+                "autonomy",
+                "of",
+                "the",
+                "model",
+                ",",
+                "its",
+                "access",
+                "to",
+                "tools",
+                ",",
+                "novel",
+                "or",
+                "combined",
+                "modalities",
+                ",",
+                "release",
+                "and",
+                "distribution",
+                "strategies",
+                ",",
+                "the",
+                "potential",
+                "to",
+                "remove",
+                "guardrails",
+                "and",
+                "other",
+                "factors"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        0,
+                        2
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "Systemic risks"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        2,
+                        13
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "should be understood to increase with model capabilities and model reach"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        14,
+                        23
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "can arise along the entire lifecycle of the model"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        25,
+                        72
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "are influenced by conditions of misuse, model reliability, model fairness and model security, the degree of autonomy of the model, its access to tools, novel or combined modalities, release and distribution strategies, the potential to remove guardrails and other factors"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "particular",
+                ",",
+                "international",
+                "approaches",
+                "have",
+                "so",
+                "far",
+                "identified",
+                "the",
+                "need",
+                "to",
+                "devote",
+                "attention",
+                "to",
+                "risks",
+                "from",
+                "potential",
+                "intentional",
+                "misuse",
+                "or",
+                "unintended",
+                "issues",
+                "of",
+                "control",
+                "relating",
+                "to",
+                "alignment",
+                "with",
+                "human",
+                "intent",
+                ";",
+                "chemical",
+                ",",
+                "biological",
+                ",",
+                "radiological",
+                ",",
+                "and",
+                "nuclear",
+                "risks",
+                ",",
+                "such",
+                "as",
+                "the",
+                "ways",
+                "in",
+                "which",
+                "barriers",
+                "to",
+                "entry",
+                "can",
+                "be",
+                "lowered",
+                ",",
+                "including",
+                "for",
+                "weapons",
+                "development",
+                ",",
+                "design",
+                "acquisition",
+                ",",
+                "or",
+                "use",
+                ";",
+                "offensive",
+                "cyber",
+                "capabilities",
+                ",",
+                "such",
+                "as",
+                "the",
+                "ways",
+                "in",
+                "vulnerability",
+                "discovery",
+                ",",
+                "exploitation",
+                ",",
+                "or",
+                "operational",
+                "use",
+                "can",
+                "be",
+                "enabled",
+                ";",
+                "the",
+                "effects",
+                "of",
+                "interaction",
+                "and",
+                "tool",
+                "use",
+                ",",
+                "including",
+                "for",
+                "example",
+                "the",
+                "capacity",
+                "to",
+                "control",
+                "physical",
+                "systems",
+                "and",
+                "interfere",
+                "with",
+                "critical",
+                "infrastructure",
+                ";",
+                "risks",
+                "from",
+                "models",
+                "of",
+                "making",
+                "copies",
+                "of",
+                "themselves",
+                "or",
+                "self",
+                "replicating",
+                "or",
+                "training",
+                "other",
+                "models",
+                ";",
+                "the",
+                "ways",
+                "in",
+                "which",
+                "models",
+                "can",
+                "give",
+                "rise",
+                "to",
+                "harmful",
+                "bias",
+                "and",
+                "discrimination",
+                "with",
+                "risks",
+                "to",
+                "individuals",
+                ",",
+                "communities",
+                "or",
+                "societies",
+                ";",
+                "the",
+                "facilitation",
+                "of",
+                "disinformation",
+                "or",
+                "harming",
+                "privacy",
+                "with",
+                "threats",
+                "to",
+                "democratic",
+                "values",
+                "and",
+                "human",
+                "rights",
+                ";",
+                "risk",
+                "that",
+                "a",
+                "particular",
+                "event",
+                "could",
+                "lead",
+                "to",
+                "a",
+                "chain",
+                "reaction",
+                "with",
+                "considerable",
+                "negative",
+                "effects",
+                "that",
+                "could",
+                "affect",
+                "up",
+                "to",
+                "an",
+                "entire",
+                "city",
+                ",",
+                "an",
+                "entire",
+                "domain",
+                "activity",
+                "or",
+                "an",
+                "entire",
+                "community"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        3,
+                        5
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "international approaches"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        31
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": " need to devote attention to risks from potential intentional misuse or unintended issues of control relating to alignment with human intent"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        32,
+                        41
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "chemical, biological, radiological, and nuclear risks"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        48,
+                        65
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "barriers to entry can be lowered, including for weapons development, design acquisition, or use"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        66,
+                        69
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "offensive cyber capabilities"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        75,
+                        86
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "vulnerability discovery, exploitation, or operational use can be enabled"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        88,
+                        94
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": " effects of interaction and tool use"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        99,
+                        109
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "capacity to control physical systems and interfere with critical infrastructure"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        15,
+                        30
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "risks from models of making copies of themselves or \u201cself-replicating\u201d or training other models"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        112,
+                        129
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "models can give rise to harmful bias and discrimination with risks to individuals, communities or societies"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        149,
+                        163
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "facilitation of disinformation or harming privacy with threats to democratic values and human rights"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        164,
+                        196
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "risk that a particular event could lead to a chain reaction with considerable negative effects that could affect up to an entire city, an entire domain activity or an entire community"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P5",
+                "h": 2,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P2",
+                "h": 4,
+                "t": 5,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P5",
+                "h": 6,
+                "t": 7,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "It",
+                "is",
+                "appropriate",
+                "to",
+                "establish",
+                "a",
+                "methodology",
+                "for",
+                "the",
+                "classification",
+                "of",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                "as",
+                "general",
+                "purpose",
+                "AI",
+                "model",
+                "with",
+                "systemic",
+                "risks"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        4,
+                        15
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "establish a methodology for the classification of general purpose AI models"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        11,
+                        18
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "general purpose AI model with systemic risks"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Since",
+                "systemic",
+                "risks",
+                "result",
+                "from",
+                "particularly",
+                "high",
+                "capabilities",
+                ",",
+                "a",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                "should",
+                "be",
+                "considered",
+                "to",
+                "present",
+                "systemic",
+                "risks",
+                "if",
+                "it",
+                "has",
+                "high",
+                "impact",
+                "capabilities",
+                ",",
+                "evaluated",
+                "on",
+                "the",
+                "basis",
+                "of",
+                "appropriate",
+                "technical",
+                "tools",
+                "and",
+                "methodologies",
+                ",",
+                "or",
+                "significant",
+                "impact",
+                "on",
+                "the",
+                "internal",
+                "market",
+                "due",
+                "to",
+                "its",
+                "reach"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        1,
+                        8
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "systemic risks result from particularly high capabilities"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        14
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "general-purpose AI models"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        14,
+                        27
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "should be considered to present systemic risks if it has high-impact capabilities"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        28,
+                        38
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": " evaluated on the basis of appropriate technical tools and methodologies"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        40,
+                        50
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "significant impact on the internal market due to its reach"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 1,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "High",
+                "impact",
+                "capabilities",
+                "in",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                "means",
+                "capabilities",
+                "that",
+                "match",
+                "or",
+                "exceed",
+                "the",
+                "capabilities",
+                "recorded",
+                "in",
+                "the",
+                "most",
+                "advanced",
+                "general",
+                "purpose",
+                "AI",
+                "models"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        0,
+                        8
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "High-impact capabilities in general purpose AI models"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        2,
+                        18
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "capabilities that match or exceed the capabilities recorded in the most advanced general-purpose AI models"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "The",
+                "full",
+                "range",
+                "of",
+                "capabilities",
+                "in",
+                "a",
+                "model",
+                "could",
+                "be",
+                "better",
+                "understood",
+                "after",
+                "its",
+                "release",
+                "on",
+                "the",
+                "market",
+                "or",
+                "when",
+                "users",
+                "interact",
+                "with",
+                "the",
+                "model"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        1,
+                        8
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "full range of capabilities in a model"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        8,
+                        25
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "could be better understood after its release on the market or when users interact with the model"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "The",
+                "providers",
+                "of",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                "presenting",
+                "systemic",
+                "risks",
+                "should",
+                "be",
+                "subject",
+                ",",
+                "in",
+                "addition",
+                "to",
+                "the",
+                "obligations",
+                "provided",
+                "for",
+                "providers",
+                "of",
+                "general",
+                "purpose",
+                "AI",
+                "models",
+                ",",
+                "to",
+                "obligations",
+                "aimed",
+                "at",
+                "identifying",
+                "and",
+                "mitigating",
+                "those",
+                "risks",
+                "and",
+                "ensuring",
+                "an",
+                "adequate",
+                "level",
+                "of",
+                "cybersecurity",
+                "protection",
+                ",",
+                "regardless",
+                "of",
+                "whether",
+                "it",
+                "is",
+                "provided",
+                "as",
+                "a",
+                "standalone",
+                "model",
+                "or",
+                "embedded",
+                "in",
+                "an",
+                "AI",
+                "system",
+                "or",
+                "a",
+                "product"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        1,
+                        10
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": " providers of general-purpose AI models presenting systemic risks"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        45
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": " should be subject, in addition to the obligations provided for providers of general purpose AI models, to obligations aimed at identifying and mitigating those risks and ensuring an adequate level of cybersecurity protection"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        48,
+                        65
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "whether it is provided as a standalone model or embedded in an AI system or a product"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P2",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "To",
+                "achieve",
+                "these",
+                "objectives",
+                ",",
+                "the",
+                "Regulation",
+                "should",
+                "require",
+                "providers",
+                "to",
+                "perform",
+                "the",
+                "necessary",
+                "model",
+                "evaluations",
+                ",",
+                "in",
+                "particular",
+                "prior",
+                "to",
+                "its",
+                "first",
+                "placing",
+                "on",
+                "the",
+                "market",
+                ",",
+                "including",
+                "conducting",
+                "and",
+                "documenting",
+                "adversarial",
+                "testing",
+                "of",
+                "models",
+                ",",
+                "also",
+                ",",
+                "as",
+                "appropriate",
+                ",",
+                "through",
+                "internal",
+                "or",
+                "independent",
+                "external",
+                "testing"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        6,
+                        7
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "Regulation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        9,
+                        10
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        23,
+                        27
+                    ],
+                    "type": "STA",
+                    "sent_id": 0,
+                    "name": "placing on the market"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        11,
+                        12
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "perform"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        13,
+                        16
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "necessary model evaluations"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        29,
+                        34
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "conducting and documenting adversarial testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        39,
+                        48
+                    ],
+                    "type": "STA",
+                    "sent_id": 0,
+                    "name": "as appropriate, through internal or independent external testing"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P8",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Furthermore",
+                ",",
+                "obligations",
+                "placed",
+                "on",
+                "providers",
+                "and",
+                "deployers",
+                "of",
+                "certain",
+                "AI",
+                "systems",
+                "in",
+                "this",
+                "Regulation",
+                "to",
+                "enable",
+                "the",
+                "detection",
+                "and",
+                "disclosure",
+                "that",
+                "the",
+                "outputs",
+                "of",
+                "those",
+                "systems",
+                "are",
+                "artificially",
+                "generated",
+                "or",
+                "manipulated",
+                "are",
+                "particularly",
+                "relevant",
+                "to",
+                "facilitate",
+                "the",
+                "effective",
+                "implementation",
+                "of",
+                "Regulation",
+                "EU",
+                "2022",
+                "2065"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        5,
+                        6
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        12
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        14,
+                        15
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Regulation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        11,
+                        12
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        38,
+                        40
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "effective implementation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        14,
+                        18
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Regulation (EU) 2022/2065"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P1",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 3,
+                "t": 4,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P11",
+                "h": 5,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "This",
+                "applies",
+                "in",
+                "particular",
+                "as",
+                "regards",
+                "the",
+                "obligations",
+                "of",
+                "providers",
+                "of",
+                "very",
+                "large",
+                "online",
+                "platforms",
+                "or",
+                "very",
+                "large",
+                "online",
+                "search",
+                "engines",
+                "to",
+                "identify",
+                "and",
+                "mitigate",
+                "systemic",
+                "risks",
+                "that",
+                "may",
+                "arise",
+                "from",
+                "the",
+                "dissemination",
+                "of",
+                "content",
+                "that",
+                "has",
+                "been",
+                "artificially",
+                "generated",
+                "or",
+                "manipulated",
+                ",",
+                "in",
+                "particular",
+                "risk",
+                "of",
+                "the",
+                "actual",
+                "or",
+                "foreseeable",
+                "negative",
+                "effects",
+                "on",
+                "democratic",
+                "processes",
+                ",",
+                "civic",
+                "discourse",
+                "and",
+                "electoral",
+                "processes",
+                ",",
+                "including",
+                "through",
+                "disinformation"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        9,
+                        10
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        26,
+                        27
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "risks"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        54,
+                        56
+                    ],
+                    "type": "PRO",
+                    "sent_id": 0,
+                    "name": "democratic processes"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        57,
+                        59
+                    ],
+                    "type": "PRO",
+                    "sent_id": 0,
+                    "name": "civic discourse"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        60,
+                        62
+                    ],
+                    "type": "PRO",
+                    "sent_id": 0,
+                    "name": "electoral processes"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P12",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P10",
+                "h": 1,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P10",
+                "h": 1,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P10",
+                "h": 1,
+                "t": 4,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "line",
+                "with",
+                "the",
+                "commonly",
+                "established",
+                "notion",
+                "of",
+                "substantial",
+                "modification",
+                "for",
+                "products",
+                "regulated",
+                "by",
+                "Union",
+                "harmonisation",
+                "legislation",
+                ",",
+                "it",
+                "is",
+                "appropriate",
+                "that",
+                "whenever",
+                "a",
+                "change",
+                "occurs",
+                "which",
+                "may",
+                "affect",
+                "the",
+                "compliance",
+                "of",
+                "a",
+                "high",
+                "risk",
+                "AI",
+                "system",
+                "with",
+                "this",
+                "Regulation",
+                "e"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        8,
+                        10
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "substantial modification"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        14,
+                        17
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Union harmonisation legislation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        30,
+                        31
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "compliance"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        35,
+                        37
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI system"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        39,
+                        40
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Regulation"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P14",
+                "h": 3,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P14",
+                "h": 1,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P11",
+                "h": 4,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P6",
+                "h": 4,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P3",
+                "h": 2,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "order",
+                "to",
+                "facilitate",
+                "the",
+                "work",
+                "of",
+                "the",
+                "Commission",
+                "and",
+                "the",
+                "Member",
+                "States",
+                "in",
+                "the",
+                "artificial",
+                "intelligence",
+                "field",
+                "as",
+                "well",
+                "as",
+                "to",
+                "increase",
+                "the",
+                "transparency",
+                "towards",
+                "the",
+                "public",
+                ",",
+                "providers",
+                "of",
+                "high",
+                "risk",
+                "AI",
+                "systems",
+                "other",
+                "than",
+                "those",
+                "related",
+                "to",
+                "products",
+                "falling",
+                "within",
+                "the",
+                "scope",
+                "of",
+                "relevant",
+                "existing",
+                "Union",
+                "harmonisation",
+                "legislation",
+                ",",
+                "as",
+                "well",
+                "as",
+                "providers",
+                "who",
+                "consider",
+                "that",
+                "an",
+                "AI",
+                "system",
+                "referred",
+                "to",
+                "in",
+                "annex",
+                "III",
+                "is",
+                "by",
+                "derogation",
+                "not",
+                "high",
+                "risk",
+                ",",
+                "should",
+                "be",
+                "required",
+                "to",
+                "register",
+                "themselves",
+                "and",
+                "information",
+                "about",
+                "their",
+                "AI",
+                "system",
+                "in",
+                "a",
+                "EU",
+                "database",
+                ",",
+                "to",
+                "be",
+                "established",
+                "and",
+                "managed",
+                "by",
+                "the",
+                "Commission"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        4,
+                        6
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "the Commission"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        4,
+                        7
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "the Member States"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        15,
+                        17
+                    ],
+                    "type": "ALG",
+                    "sent_id": 0,
+                    "name": "artificial intelligence"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        24,
+                        28
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "transparency towards the public"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        29,
+                        30
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        31,
+                        35
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "high-risk AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        48,
+                        51
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Union harmonisation legislation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        29,
+                        30
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        33,
+                        35
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI system"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        31,
+                        33
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "high-risk"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        33,
+                        35
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI system"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        4,
+                        6
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "the Commission"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P14",
+                "h": 0,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 0,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P11",
+                "h": 6,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P1",
+                "h": 7,
+                "t": 8,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 5,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P10",
+                "h": 10,
+                "t": 9,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P14",
+                "h": 11,
+                "t": 10,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Before",
+                "using",
+                "a",
+                "high",
+                "risk",
+                "AI",
+                "system",
+                "listed",
+                "in",
+                "Annex",
+                "III",
+                ",",
+                "deployers",
+                "of",
+                "high",
+                "risk",
+                "AI",
+                "systems",
+                "that",
+                "are",
+                "public",
+                "authorities",
+                ",",
+                "agencies",
+                "or",
+                "bodies",
+                ",",
+                "shall",
+                "register",
+                "themselves",
+                "in",
+                "such",
+                "database",
+                "and",
+                "select",
+                "the",
+                "system",
+                "that",
+                "they",
+                "envisage",
+                "to",
+                "use"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        3,
+                        5
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "high-risk"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        5,
+                        7
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI system"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        3,
+                        7
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "high-risk AI systems"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P10",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "The",
+                "wide",
+                "availability",
+                "and",
+                "increasing",
+                "capabilities",
+                "of",
+                "those",
+                "systems",
+                "have",
+                "a",
+                "significant",
+                "impact",
+                "on",
+                "the",
+                "integrity",
+                "and",
+                "trust",
+                "in",
+                "the",
+                "information",
+                "ecosystem",
+                ",",
+                "raising",
+                "new",
+                "risks",
+                "of",
+                "misinformation",
+                "and",
+                "manipulation",
+                "at",
+                "scale",
+                ",",
+                "fraud",
+                ",",
+                "impersonation",
+                "and",
+                "consumer",
+                "deception"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        8,
+                        9
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        25,
+                        26
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "risks"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P10",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "the",
+                "light",
+                "of",
+                "those",
+                "impacts",
+                ",",
+                "the",
+                "fast",
+                "technological",
+                "pace",
+                "and",
+                "the",
+                "need",
+                "for",
+                "new",
+                "methods",
+                "and",
+                "techniques",
+                "to",
+                "trace",
+                "origin",
+                "of",
+                "information",
+                ",",
+                "it",
+                "is",
+                "appropriate",
+                "to",
+                "require",
+                "providers",
+                "of",
+                "those",
+                "systems",
+                "to",
+                "embed",
+                "technical",
+                "solutions",
+                "that",
+                "enable",
+                "marking",
+                "in",
+                "a",
+                "machine",
+                "readable",
+                "format",
+                "and",
+                "detection",
+                "that",
+                "the",
+                "output",
+                "has",
+                "been",
+                "generated",
+                "or",
+                "manipulated",
+                "by",
+                "an",
+                "AI",
+                "system",
+                "and",
+                "not",
+                "a",
+                "human"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        30,
+                        31
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        33,
+                        34
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        58,
+                        60
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI system"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P1",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P1",
+                "h": 0,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Further",
+                "to",
+                "the",
+                "technical",
+                "solutions",
+                "employed",
+                "by",
+                "the",
+                "providers",
+                "of",
+                "the",
+                "system",
+                ",",
+                "deployers",
+                ",",
+                "who",
+                "use",
+                "an",
+                "AI",
+                "system",
+                "to",
+                "generate",
+                "or",
+                "manipulate",
+                "image",
+                ",",
+                "audio",
+                "or",
+                "video",
+                "content",
+                "that",
+                "appreciably",
+                "resembles",
+                "existing",
+                "persons",
+                ",",
+                "places",
+                "or",
+                "events",
+                "and",
+                "would",
+                "falsely",
+                "appear",
+                "to",
+                "a",
+                "person",
+                "to",
+                "be",
+                "authentic",
+                "deep",
+                "fakes",
+                ",",
+                "should",
+                "also",
+                "clearly",
+                "and",
+                "distinguishably",
+                "disclose",
+                "that",
+                "the",
+                "content",
+                "has",
+                "been",
+                "artificially",
+                "created",
+                "or",
+                "manipulated",
+                "by",
+                "labelling",
+                "the",
+                "artificial",
+                "intelligence",
+                "output",
+                "accordingly",
+                "and",
+                "disclosing",
+                "its",
+                "artificial",
+                "origin",
+                "The",
+                "compliance",
+                "with",
+                "this",
+                "transparency",
+                "obligation",
+                "should",
+                "not",
+                "be",
+                "interpreted",
+                "as",
+                "indicating",
+                "that",
+                "the",
+                "use",
+                "of",
+                "the",
+                "system",
+                "or",
+                "its",
+                "output",
+                "impedes",
+                "the",
+                "right",
+                "to",
+                "freedom",
+                "of",
+                "expression",
+                "and",
+                "the",
+                "right",
+                "to",
+                "freedom",
+                "of",
+                "the",
+                "arts",
+                "and",
+                "sciences",
+                "guaranteed",
+                "in",
+                "the",
+                "Charter",
+                "of",
+                "Fundamental",
+                "Rights",
+                "of",
+                "the",
+                "EU",
+                ",",
+                "in",
+                "particular",
+                "where",
+                "the",
+                "content",
+                "is",
+                "part",
+                "of",
+                "an",
+                "evidently",
+                "creative",
+                ",",
+                "satirical",
+                ",",
+                "artistic",
+                "or",
+                "fictional",
+                "work",
+                "or",
+                "programme",
+                ",",
+                "subject",
+                "to",
+                "appropriate",
+                "safeguards",
+                "for",
+                "the",
+                "rights",
+                "and",
+                "freedoms",
+                "of",
+                "third",
+                "parties"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        8,
+                        9
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        18,
+                        20
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI system"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        45,
+                        46
+                    ],
+                    "type": "PER",
+                    "sent_id": 0,
+                    "name": "person"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        70,
+                        72
+                    ],
+                    "type": "ALG",
+                    "sent_id": 0,
+                    "name": "artificial intelligence"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        80,
+                        81
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "compliance"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        83,
+                        84
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "transparency"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        11,
+                        12
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "system"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        120,
+                        127
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Charter of Fundamental Rights of the EU"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        155,
+                        158
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "rights and freedoms"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        11,
+                        12
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "system"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        13,
+                        14
+                    ],
+                    "type": "PER",
+                    "sent_id": 0,
+                    "name": "deployers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        24,
+                        30
+                    ],
+                    "type": "DAT",
+                    "sent_id": 0,
+                    "name": " image, audio or video content"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        41,
+                        42
+                    ],
+                    "type": "HAR",
+                    "sent_id": 0,
+                    "name": "falsely"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        104,
+                        107
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": " freedom of expression"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        104,
+                        110
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "freedom of the arts and sciences"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        159,
+                        161
+                    ],
+                    "type": "PER",
+                    "sent_id": 0,
+                    "name": "third parties"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        48,
+                        49
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "authentic"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P1",
+                "h": 0,
+                "t": 9,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P5",
+                "h": 10,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P4",
+                "h": 1,
+                "t": 11,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P16",
+                "h": 1,
+                "t": 12,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P16",
+                "h": 3,
+                "t": 12,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P15",
+                "h": 3,
+                "t": 16,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P15",
+                "h": 3,
+                "t": 5,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P15",
+                "h": 1,
+                "t": 16,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P15",
+                "h": 1,
+                "t": 5,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P3",
+                "h": 8,
+                "t": 15,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P14",
+                "h": 7,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P6",
+                "h": 7,
+                "t": 14,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P6",
+                "h": 7,
+                "t": 13,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P12",
+                "h": 1,
+                "t": 4,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "those",
+                "cases",
+                ",",
+                "the",
+                "transparency",
+                "obligation",
+                "for",
+                "deep",
+                "fakes",
+                "set",
+                "out",
+                "in",
+                "this",
+                "Regulation",
+                "is",
+                "limited",
+                "to",
+                "disclosure",
+                "of",
+                "the",
+                "existence",
+                "of",
+                "such",
+                "generated",
+                "or",
+                "manipulated",
+                "content",
+                "in",
+                "an",
+                "appropriate",
+                "manner",
+                "that",
+                "does",
+                "not",
+                "hamper",
+                "the",
+                "display",
+                "or",
+                "enjoyment",
+                "of",
+                "the",
+                "work",
+                ",",
+                "including",
+                "its",
+                "normal",
+                "exploitation",
+                "and",
+                "use",
+                ",",
+                "while",
+                "maintaining",
+                "the",
+                "utility",
+                "and",
+                "quality",
+                "of",
+                "the",
+                "work"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        5,
+                        6
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "transparency"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        8,
+                        10
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "deep fakes"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        14,
+                        15
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Regulation"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P8",
+                "h": 2,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "addition",
+                ",",
+                "it",
+                "is",
+                "also",
+                "appropriate",
+                "to",
+                "envisage",
+                "a",
+                "similar",
+                "disclosure",
+                "obligation",
+                "in",
+                "relation",
+                "to",
+                "AI",
+                "generated",
+                "or",
+                "manipulated",
+                "text",
+                "to",
+                "the",
+                "extent",
+                "it",
+                "is",
+                "published",
+                "with",
+                "the",
+                "purpose",
+                "of",
+                "informing",
+                "the",
+                "public",
+                "on",
+                "matters",
+                "of",
+                "public",
+                "interest",
+                "unless",
+                "the",
+                "AI",
+                "generated",
+                "content",
+                "has",
+                "undergone",
+                "a",
+                "process",
+                "of",
+                "human",
+                "review",
+                "or",
+                "editorial",
+                "control",
+                "and",
+                "a",
+                "natural",
+                "or",
+                "legal",
+                "person",
+                "holds",
+                "editorial",
+                "responsibility",
+                "for",
+                "the",
+                "publication",
+                "of",
+                "the",
+                "content"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        33,
+                        35
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "public interest"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        59,
+                        60
+                    ],
+                    "type": "PER",
+                    "sent_id": 0,
+                    "name": "person"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P24",
+                "h": 1,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "order",
+                "to",
+                "accelerate",
+                "the",
+                "process",
+                "of",
+                "development",
+                "and",
+                "placing",
+                "on",
+                "the",
+                "market",
+                "of",
+                "high",
+                "risk",
+                "AI",
+                "systems",
+                "listed",
+                "in",
+                "Annex",
+                "III",
+                ",",
+                "it",
+                "is",
+                "important",
+                "that",
+                "providers",
+                "or",
+                "prospective",
+                "providers",
+                "of",
+                "such",
+                "systems",
+                "may",
+                "also",
+                "benefit",
+                "from",
+                "a",
+                "specific",
+                "regime",
+                "for",
+                "testing",
+                "those",
+                "systems",
+                "in",
+                "real",
+                "world",
+                "conditions",
+                ",",
+                "without",
+                "participating",
+                "in",
+                "an",
+                "AI",
+                "regulatory",
+                "sandbox"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        7,
+                        8
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "development"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        9,
+                        13
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "placing on the market"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        14,
+                        18
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "high-risk AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        27,
+                        28
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        27,
+                        28
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        17,
+                        18
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        42,
+                        43
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        17,
+                        18
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        16,
+                        17
+                    ],
+                    "type": "ALG",
+                    "sent_id": 0,
+                    "name": "AI"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P1",
+                "h": 3,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P1",
+                "h": 4,
+                "t": 5,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 2,
+                "t": 6,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 2,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 8,
+                "t": 6,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "However",
+                ",",
+                "in",
+                "such",
+                "cases",
+                "and",
+                "taking",
+                "into",
+                "account",
+                "the",
+                "possible",
+                "consequences",
+                "of",
+                "such",
+                "testing",
+                "on",
+                "individuals",
+                ",",
+                "it",
+                "should",
+                "be",
+                "ensured",
+                "that",
+                "appropriate",
+                "and",
+                "sufficient",
+                "guarantees",
+                "and",
+                "conditions",
+                "are",
+                "introduced",
+                "by",
+                "the",
+                "Regulation",
+                "for",
+                "providers",
+                "or",
+                "prospective",
+                "providers"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        14,
+                        15
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        33,
+                        34
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Regulation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        35,
+                        36
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        35,
+                        36
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P12",
+                "h": 2,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P5",
+                "h": 3,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Such",
+                "guarantees",
+                "should",
+                "include",
+                ",",
+                "among",
+                "others",
+                ",",
+                "requesting",
+                "informed",
+                "consent",
+                "of",
+                "natural",
+                "persons",
+                "to",
+                "participate",
+                "in",
+                "testing",
+                "in",
+                "real",
+                "world",
+                "conditions",
+                ",",
+                "with",
+                "the",
+                "exception",
+                "of",
+                "law",
+                "enforcement",
+                "in",
+                "cases",
+                "where",
+                "the",
+                "seeking",
+                "of",
+                "informed",
+                "consent",
+                "would",
+                "prevent",
+                "the",
+                "AI",
+                "system",
+                "from",
+                "being",
+                "tested"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        12,
+                        14
+                    ],
+                    "type": "PER",
+                    "sent_id": 0,
+                    "name": "natural persons"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        17,
+                        18
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        27,
+                        29
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "law enforcement"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        40,
+                        42
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI system"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P14",
+                "h": 2,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P3",
+                "h": 2,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 3,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Consent",
+                "of",
+                "subjects",
+                "to",
+                "participate",
+                "in",
+                "such",
+                "testing",
+                "under",
+                "this",
+                "Regulation",
+                "is",
+                "distinct",
+                "from",
+                "and",
+                "without",
+                "prejudice",
+                "to",
+                "consent",
+                "of",
+                "data",
+                "subjects",
+                "for",
+                "the",
+                "processing",
+                "of",
+                "their",
+                "personal",
+                "data",
+                "under",
+                "the",
+                "relevant",
+                "data",
+                "protection",
+                "law"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        0,
+                        3
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "Consent of subjects"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        7,
+                        8
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        11
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Regulation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        27,
+                        29
+                    ],
+                    "type": "DAT",
+                    "sent_id": 0,
+                    "name": "personal data"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P8",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P3",
+                "h": 3,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P17",
+                "h": 2,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "It",
+                "is",
+                "also",
+                "important",
+                "to",
+                "minimise",
+                "the",
+                "risks",
+                "and",
+                "enable",
+                "oversight",
+                "by",
+                "competent",
+                "authorities",
+                "and",
+                "therefore",
+                "require",
+                "prospective",
+                "providers",
+                "to",
+                "have",
+                "a",
+                "real",
+                "world",
+                "testing",
+                "plan",
+                "submitted",
+                "to",
+                "competent",
+                "market",
+                "surveillance",
+                "authority",
+                ",",
+                "register",
+                "the",
+                "testing",
+                "in",
+                "dedicated",
+                "sections",
+                "in",
+                "the",
+                "EU",
+                "wide",
+                "database",
+                "subject",
+                "to",
+                "some",
+                "limited",
+                "exceptions",
+                ",",
+                "set",
+                "limitations",
+                "on",
+                "the",
+                "period",
+                "for",
+                "which",
+                "the",
+                "testing",
+                "can",
+                "be",
+                "done",
+                "and",
+                "require",
+                "additional",
+                "safeguards",
+                "for",
+                "persons",
+                "belonging",
+                "to",
+                "certain",
+                "vulnerable",
+                "groups",
+                "as",
+                "well",
+                "as",
+                "a",
+                "written",
+                "agreement",
+                "defining",
+                "the",
+                "roles",
+                "and",
+                "responsibilities",
+                "of",
+                "prospective",
+                "providers",
+                "and",
+                "deployers",
+                "and",
+                "effective",
+                "oversight",
+                "by",
+                "competent",
+                "personnel",
+                "involved",
+                "in",
+                "the",
+                "real",
+                "world",
+                "testing"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        7,
+                        8
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "risks"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        11
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "oversight"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        12,
+                        14
+                    ],
+                    "type": "PER",
+                    "sent_id": 0,
+                    "name": "competent authorities"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        18,
+                        19
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        24,
+                        25
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        29,
+                        32
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "market surveillance authority"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        24,
+                        25
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        24,
+                        25
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        67,
+                        68
+                    ],
+                    "type": "PER",
+                    "sent_id": 0,
+                    "name": "persons"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        18,
+                        19
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        11
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "oversight"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        24,
+                        25
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P3",
+                "h": 0,
+                "t": 4,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P11",
+                "h": 2,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P14",
+                "h": 3,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P5",
+                "h": 5,
+                "t": 6,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P12",
+                "h": 8,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P24",
+                "h": 10,
+                "t": 7,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P4",
+                "h": 9,
+                "t": 11,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Furthermore",
+                ",",
+                "it",
+                "is",
+                "appropriate",
+                "to",
+                "envisage",
+                "additional",
+                "safeguards",
+                "to",
+                "ensure",
+                "that",
+                "the",
+                "predictions",
+                ",",
+                "recommendations",
+                "or",
+                "decisions",
+                "of",
+                "the",
+                "AI",
+                "system",
+                "can",
+                "be",
+                "effectively",
+                "reversed",
+                "and",
+                "disregarded",
+                "and",
+                "that",
+                "personal",
+                "data",
+                "is",
+                "protected",
+                "and",
+                "is",
+                "deleted",
+                "when",
+                "the",
+                "subjects",
+                "have",
+                "withdrawn",
+                "their",
+                "consent",
+                "to",
+                "participate",
+                "in",
+                "the",
+                "testing",
+                "without",
+                "prejudice",
+                "to",
+                "their",
+                "rights",
+                "as",
+                "data",
+                "subjects",
+                "under",
+                "the",
+                "EU",
+                "data",
+                "protection",
+                "law"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        13,
+                        14
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "predictions"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        20,
+                        22
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI system"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        30,
+                        32
+                    ],
+                    "type": "DAT",
+                    "sent_id": 0,
+                    "name": "personal data"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        48,
+                        49
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        53,
+                        54
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "rights"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        59,
+                        63
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "EU data protection law"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P4",
+                "h": 1,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P4",
+                "h": 1,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 1,
+                "t": 3,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P3",
+                "h": 4,
+                "t": 5,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 0,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P12",
+                "h": 1,
+                "t": 4,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "As",
+                "regards",
+                "transfer",
+                "of",
+                "data",
+                ",",
+                "it",
+                "is",
+                "also",
+                "appropriate",
+                "to",
+                "envisage",
+                "that",
+                "data",
+                "collected",
+                "and",
+                "processed",
+                "for",
+                "the",
+                "purpose",
+                "of",
+                "the",
+                "testing",
+                "in",
+                "real",
+                "world",
+                "conditions",
+                "should",
+                "only",
+                "be",
+                "transferred",
+                "to",
+                "third",
+                "countries",
+                "outside",
+                "the",
+                "Union",
+                "provided",
+                "appropriate",
+                "and",
+                "applicable",
+                "safeguards",
+                "under",
+                "Union",
+                "law",
+                "are",
+                "implemented",
+                ",",
+                "notably",
+                "in",
+                "accordance",
+                "with",
+                "bases",
+                "for",
+                "transfer",
+                "of",
+                "personal",
+                "data",
+                "under",
+                "Union",
+                "law",
+                "on",
+                "data",
+                "protection",
+                ",",
+                "while",
+                "for",
+                "non",
+                "personal",
+                "data",
+                "appropriate",
+                "safeguards",
+                "are",
+                "put",
+                "in",
+                "place",
+                "in",
+                "accordance",
+                "with",
+                "Union",
+                "law",
+                ",",
+                "such",
+                "as",
+                "the",
+                "Data",
+                "Governance",
+                "Act",
+                "and",
+                "the",
+                "Data",
+                "Act"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        22,
+                        23
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "testing"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        36,
+                        38
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Union law"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        56,
+                        58
+                    ],
+                    "type": "DAT",
+                    "sent_id": 0,
+                    "name": "personal data"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        36,
+                        38
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Union law"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        36,
+                        38
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Union law"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        85,
+                        87
+                    ],
+                    "type": "PRO",
+                    "sent_id": 0,
+                    "name": "Data Governance"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P11",
+                "h": 3,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P8",
+                "h": 0,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P11",
+                "h": 5,
+                "t": 4,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 5,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "order",
+                "to",
+                "ensure",
+                "that",
+                "providers",
+                "of",
+                "high",
+                "risk",
+                "AI",
+                "systems",
+                "can",
+                "take",
+                "into",
+                "account",
+                "the",
+                "experience",
+                "on",
+                "the",
+                "use",
+                "of",
+                "high",
+                "risk",
+                "AI",
+                "systems",
+                "for",
+                "improving",
+                "their",
+                "systems",
+                "and",
+                "the",
+                "design",
+                "and",
+                "development",
+                "process",
+                "or",
+                "can",
+                "take",
+                "any",
+                "possible",
+                "corrective",
+                "action",
+                "in",
+                "a",
+                "timely",
+                "manner",
+                ",",
+                "all",
+                "providers",
+                "should",
+                "have",
+                "a",
+                "post",
+                "market",
+                "monitoring",
+                "system",
+                "in",
+                "place"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        5,
+                        6
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        7,
+                        11
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "high-risk AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        7,
+                        11
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "high-risk AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        10,
+                        11
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        33,
+                        34
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "development"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        5,
+                        6
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        52,
+                        56
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "post-market monitoring system"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P22",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P3",
+                "h": 4,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P1",
+                "h": 0,
+                "t": 6,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "Post",
+                "market",
+                "monitoring",
+                "should",
+                "not",
+                "cover",
+                "sensitive",
+                "operational",
+                "data",
+                "of",
+                "deployers",
+                "which",
+                "are",
+                "law",
+                "enforcement",
+                "authorities"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        6,
+                        9
+                    ],
+                    "type": "DAT",
+                    "sent_id": 0,
+                    "name": "sensitive operational data"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        13,
+                        15
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "law enforcement"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        0,
+                        3
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "Post-market monitoring"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P16",
+                "h": 2,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P14",
+                "h": 1,
+                "t": 0,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P5",
+                "h": 1,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "This",
+                "system",
+                "is",
+                "also",
+                "key",
+                "to",
+                "ensure",
+                "that",
+                "the",
+                "possible",
+                "risks",
+                "emerging",
+                "from",
+                "AI",
+                "systems",
+                "which",
+                "continue",
+                "to",
+                "learn",
+                "after",
+                "being",
+                "placed",
+                "on",
+                "the",
+                "market",
+                "or",
+                "put",
+                "into",
+                "service",
+                "can",
+                "be",
+                "more",
+                "efficiently",
+                "and",
+                "timely",
+                "addressed"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        10,
+                        11
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "risks"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        13,
+                        15
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        21,
+                        25
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "placed on the market"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P3",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P12",
+                "h": 1,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "In",
+                "this",
+                "context",
+                ",",
+                "providers",
+                "should",
+                "also",
+                "be",
+                "required",
+                "to",
+                "have",
+                "a",
+                "system",
+                "in",
+                "place",
+                "to",
+                "report",
+                "to",
+                "the",
+                "relevant",
+                "authorities",
+                "any",
+                "serious",
+                "incidents",
+                "resulting",
+                "from",
+                "the",
+                "use",
+                "of",
+                "their",
+                "AI",
+                "systems",
+                ",",
+                "meaning",
+                "incident",
+                "or",
+                "malfunctioning",
+                "leading",
+                "to",
+                "death",
+                "or",
+                "serious",
+                "damage",
+                "to",
+                "health",
+                ",",
+                "serious",
+                "and",
+                "irreversible",
+                "disruption",
+                "of",
+                "the",
+                "management",
+                "and",
+                "operation",
+                "of",
+                "critical",
+                "infrastructure",
+                ",",
+                "breaches",
+                "of",
+                "obligations",
+                "under",
+                "Union",
+                "law",
+                "intended",
+                "to",
+                "protect",
+                "fundamental",
+                "rights",
+                "or",
+                "serious",
+                "damage",
+                "to",
+                "property",
+                "or",
+                "the",
+                "environment"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        4,
+                        5
+                    ],
+                    "type": "ORG",
+                    "sent_id": 0,
+                    "name": "providers"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        16,
+                        21
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "report to the relevant authorities"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        30,
+                        32
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        44,
+                        45
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "health"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        57,
+                        58
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "infrastructure"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        63,
+                        65
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Union law"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        69,
+                        70
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "rights"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        36,
+                        37
+                    ],
+                    "type": "HAR",
+                    "sent_id": 0,
+                    "name": "malfunctioning"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P22",
+                "h": 0,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P18",
+                "h": 2,
+                "t": 7,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P17",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P7",
+                "h": 2,
+                "t": 6,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P11",
+                "h": 5,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "It",
+                "is",
+                "important",
+                "that",
+                "AI",
+                "systems",
+                "related",
+                "to",
+                "products",
+                "that",
+                "are",
+                "not",
+                "high",
+                "risk",
+                "in",
+                "accordance",
+                "with",
+                "this",
+                "Regulation",
+                "and",
+                "thus",
+                "are",
+                "not",
+                "required",
+                "to",
+                "comply",
+                "with",
+                "the",
+                "requirements",
+                "set",
+                "out",
+                "for",
+                "high",
+                "risk",
+                "AI",
+                "systems",
+                "are",
+                "nevertheless",
+                "safe",
+                "when",
+                "placed",
+                "on",
+                "the",
+                "market",
+                "or",
+                "put",
+                "into",
+                "service"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        4,
+                        6
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        12,
+                        14
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "high-risk"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        18,
+                        19
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Regulation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        12,
+                        16
+                    ],
+                    "type": "SYS",
+                    "sent_id": 0,
+                    "name": "high-risk AI systems"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        40,
+                        44
+                    ],
+                    "type": "ACT",
+                    "sent_id": 0,
+                    "name": "placed on the market"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P12",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            },
+            {
+                "r": "P14",
+                "h": 3,
+                "t": 2,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Legal text about AI",
+        "sents": [
+            [
+                "To",
+                "contribute",
+                "to",
+                "this",
+                "objective",
+                ",",
+                "Regulation",
+                "EU",
+                "2023",
+                "988",
+                "of",
+                "the",
+                "European",
+                "Parliament",
+                "and",
+                "of",
+                "the",
+                "Council28",
+                "would",
+                "apply",
+                "as",
+                "a",
+                "safety",
+                "net"
+            ]
+        ],
+        "vertexSet": [
+            [
+                {
+                    "pos": [
+                        6,
+                        7
+                    ],
+                    "type": "DOC",
+                    "sent_id": 0,
+                    "name": "Regulation"
+                }
+            ],
+            [
+                {
+                    "pos": [
+                        22,
+                        23
+                    ],
+                    "type": "ETH",
+                    "sent_id": 0,
+                    "name": "safety"
+                }
+            ]
+        ],
+        "labels": [
+            {
+                "r": "P5",
+                "h": 0,
+                "t": 1,
+                "evidence": [
+                    0
+                ]
+            }
+        ]
+    }
+]

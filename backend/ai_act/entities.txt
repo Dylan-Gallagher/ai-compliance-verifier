@@ -1,0 +1,67 @@
+AI system
+risk
+provider
+deployer
+authorised representative
+importer
+distributor
+operator
+placing on the market
+making available on the market
+putting into service
+intended purpose
+reasonably foreseeable misuse
+safety component of a product or system
+instructions for use
+recall of an AI system
+withdrawal of an AI system
+performance of an AI system
+notifying authority
+conformity assessment
+conformity assessment body
+notified body
+substantial modification
+CE marking of conformity
+post-market monitoring system
+market surveillance authority
+harmonised standard
+common specification
+training data
+validation data
+testing data
+input data
+biometric data
+biometric identification
+biometric verification
+special categories of personal data
+sensitive operational data
+emotion recognition system
+biometric categorisation system
+remote biometric identification system
+real-time remote biometric identification system
+post remote biometric identification system
+publicly accessible space
+law enforcement authority
+law enforcement
+Artificial Intelligence Office
+national competent authority
+serious incident
+personal data
+non-personal data
+profiling
+real world testing plan
+sandbox plan
+AI regulatory sandbox
+AI literacy
+testing in real world conditions
+subject
+informed consent
+deep fake
+widespread infringement
+critical infrastructure
+general purpose AI model
+high-impact capabilities
+systemic risk at Union level
+general purpose AI system
+floating-point operation
+downstream provider

@@ -1,0 +1,1 @@
+This directory contains the train/dev/test splits of the training data in DocRED format.
