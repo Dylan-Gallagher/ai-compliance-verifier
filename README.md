@@ -1,7 +1,7 @@
 # AI Compliance Verifier
 ![Poster.png](Poster.png)
 ## About
-This project started as a university project at Trinity College Dublin in collaboration with IBM Research. This project won the Public Choice Award sponsored by Microsoft. 
+This project started as a university project at Trinity College Dublin in collaboration with IBM Research. This project won the Public Choice Award sponsored by Microsoft at the Trinity College Dublin Software Engineering Showcase. 
 We have continued the development of it in this repo. The original project repo that this was forked off can be found [here](https://github.com/AllanNastin/ethical-ai/).
 
 This tool aims to help AI developers make sure their models are compliant with the new EU AI Act.
