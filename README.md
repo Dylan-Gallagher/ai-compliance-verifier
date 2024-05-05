@@ -1,4 +1,10 @@
-# Deployed ethical-ai
+# AI Compliance Verifier
+
+## About
+This project started as a university project at Trinity College Dublin in collaboration with IBM Research. We have continued to development of it in this repo. The original project repo that this was forked off can be found [here](https://github.com/AllanNastin/ethical-ai/).
+
+This tool aims to help AI developers make sure their models are compliant with the new EU AI Act.
+
 ## Frontend
 Running on ReactJS at https://group22.sprinty.tech/
 
@@ -16,7 +22,7 @@ Running an api server on Python Flask at https://group22.api.sprinty.tech/
 `pip install -r server-requirements.txt` - Install all the server dependencies  
 `python server.py` - Start the backend server on localhost:8000
 
-Opon landing on the main page, the user has two options: either visualise the Knowledge Graph of the EU AI Act or upload their own AI model documentation.
+Upon landing on the main page, the user has two options: either visualise the Knowledge Graph of the EU AI Act or upload their own AI model documentation.
 
 ## Knowledge Graph
 The Knowledge Graph is a visual representation of all key elements of the EU AI Act and the relationships between them. The user can easily navigate the graph either via the computer mouse/touch pad, or by using the buttons located at the bottom of the page (arrows, zoom in/out, full-screen).
