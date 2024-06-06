@@ -10,7 +10,7 @@ from transformers import AutoModelForCausalLM, BitsAndBytesConfig, AutoTokenizer
 import requests
 from bs4 import BeautifulSoup
 
-token="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" #insert hugging face token here
+token=HFTOKEN #insert hugging face token here
 
 
 login(token=token) 
