@@ -14,7 +14,7 @@ token=HFTOKEN #insert hugging face token here
 
 
 login(token=token) 
-model_name = mistralai/Mixtral-8x7B-Instruct-v0.1
+model_name = "mistralai/Mixtral-8x7B-Instruct-v0.1"
 
 '''
 Used for quantizing model if running locally.
