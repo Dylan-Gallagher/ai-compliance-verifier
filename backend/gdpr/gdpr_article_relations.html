@@ -1,0 +1,170 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+             #config {
+                 float: left;
+                 width: 400px;
+                 height: 600px;
+             }
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+            <div id="config"></div>
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Article 2", "label": "Article 2", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 98", "label": "Article 98", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 5", "label": "Article 5", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 89", "label": "Article 89", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 6", "label": "Article 6", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 23", "label": "Article 23", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 34", "label": "Article 34", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 8", "label": "Article 8", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 9", "label": "Article 9", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 12", "label": "Article 12", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 11", "label": "Article 11", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 92", "label": "Article 92", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 13", "label": "Article 13", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 46", "label": "Article 46", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 22", "label": "Article 22", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 45", "label": "Article 45", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 47", "label": "Article 47", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 93", "label": "Article 93", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 40", "label": "Article 40", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 42", "label": "Article 42", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 63", "label": "Article 63", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 26", "label": "Article 26", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 14", "label": "Article 14", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 15", "label": "Article 15", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 17", "label": "Article 17", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 21", "label": "Article 21", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 18", "label": "Article 18", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 20", "label": "Article 20", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 33", "label": "Article 33", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 24", "label": "Article 24", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 32", "label": "Article 32", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 3", "label": "Article 3", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 41", "label": "Article 41", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 55", "label": "Article 55", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 25", "label": "Article 25", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 43", "label": "Article 43", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 27", "label": "Article 27", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 28", "label": "Article 28", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 30", "label": "Article 30", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 49", "label": "Article 49", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 35", "label": "Article 35", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 68", "label": "Article 68", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 65", "label": "Article 65", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 36", "label": "Article 36", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 58", "label": "Article 58", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 83", "label": "Article 83", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 37", "label": "Article 37", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 39", "label": "Article 39", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 38", "label": "Article 38", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 51", "label": "Article 51", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 56", "label": "Article 56", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 60", "label": "Article 60", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 61", "label": "Article 61", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 66", "label": "Article 66", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 57", "label": "Article 57", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 80", "label": "Article 80", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 82", "label": "Article 82", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 77", "label": "Article 77", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 64", "label": "Article 64", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 62", "label": "Article 62", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 69", "label": "Article 69", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 70", "label": "Article 70", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 54", "label": "Article 54", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 76", "label": "Article 76", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 71", "label": "Article 71", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 74", "label": "Article 74", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 78", "label": "Article 78", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 79", "label": "Article 79", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 84", "label": "Article 84", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 90", "label": "Article 90", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 94", "label": "Article 94", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 29", "label": "Article 29", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article 97", "label": "Article 97", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "Article 2", "to": "Article 98", "width": 1}, {"arrows": "to", "from": "Article 5", "to": "Article 89", "width": 1}, {"arrows": "to", "from": "Article 6", "to": "Article 23", "width": 1}, {"arrows": "to", "from": "Article 23", "to": "Article 34", "width": 1}, {"arrows": "to", "from": "Article 8", "to": "Article 6", "width": 1}, {"arrows": "to", "from": "Article 9", "to": "Article 89", "width": 1}, {"arrows": "to", "from": "Article 12", "to": "Article 11", "width": 1}, {"arrows": "to", "from": "Article 12", "to": "Article 92", "width": 1}, {"arrows": "to", "from": "Article 13", "to": "Article 6", "width": 1}, {"arrows": "to", "from": "Article 13", "to": "Article 46", "width": 1}, {"arrows": "to", "from": "Article 13", "to": "Article 22", "width": 1}, {"arrows": "to", "from": "Article 46", "to": "Article 45", "width": 1}, {"arrows": "to", "from": "Article 46", "to": "Article 47", "width": 1}, {"arrows": "to", "from": "Article 46", "to": "Article 93", "width": 1}, {"arrows": "to", "from": "Article 46", "to": "Article 40", "width": 1}, {"arrows": "to", "from": "Article 46", "to": "Article 42", "width": 1}, {"arrows": "to", "from": "Article 46", "to": "Article 63", "width": 1}, {"arrows": "to", "from": "Article 46", "to": "Article 26", "width": 1}, {"arrows": "to", "from": "Article 22", "to": "Article 9", "width": 1}, {"arrows": "to", "from": "Article 14", "to": "Article 46", "width": 1}, {"arrows": "to", "from": "Article 14", "to": "Article 6", "width": 1}, {"arrows": "to", "from": "Article 14", "to": "Article 22", "width": 1}, {"arrows": "to", "from": "Article 14", "to": "Article 89", "width": 1}, {"arrows": "to", "from": "Article 15", "to": "Article 22", "width": 1}, {"arrows": "to", "from": "Article 15", "to": "Article 46", "width": 1}, {"arrows": "to", "from": "Article 17", "to": "Article 6", "width": 1}, {"arrows": "to", "from": "Article 17", "to": "Article 21", "width": 1}, {"arrows": "to", "from": "Article 17", "to": "Article 8", "width": 1}, {"arrows": "to", "from": "Article 17", "to": "Article 9", "width": 1}, {"arrows": "to", "from": "Article 17", "to": "Article 89", "width": 1}, {"arrows": "to", "from": "Article 21", "to": "Article 6", "width": 1}, {"arrows": "to", "from": "Article 21", "to": "Article 89", "width": 1}, {"arrows": "to", "from": "Article 18", "to": "Article 21", "width": 1}, {"arrows": "to", "from": "Article 20", "to": "Article 6", "width": 1}, {"arrows": "to", "from": "Article 20", "to": "Article 17", "width": 1}, {"arrows": "to", "from": "Article 34", "to": "Article 33", "width": 1}, {"arrows": "to", "from": "Article 24", "to": "Article 40", "width": 1}, {"arrows": "to", "from": "Article 40", "to": "Article 32", "width": 1}, {"arrows": "to", "from": "Article 40", "to": "Article 3", "width": 1}, {"arrows": "to", "from": "Article 40", "to": "Article 41", "width": 1}, {"arrows": "to", "from": "Article 40", "to": "Article 55", "width": 1}, {"arrows": "to", "from": "Article 40", "to": "Article 93", "width": 1}, {"arrows": "to", "from": "Article 25", "to": "Article 42", "width": 1}, {"arrows": "to", "from": "Article 42", "to": "Article 3", "width": 1}, {"arrows": "to", "from": "Article 42", "to": "Article 55", "width": 1}, {"arrows": "to", "from": "Article 42", "to": "Article 43", "width": 1}, {"arrows": "to", "from": "Article 27", "to": "Article 3", "width": 1}, {"arrows": "to", "from": "Article 27", "to": "Article 9", "width": 1}, {"arrows": "to", "from": "Article 28", "to": "Article 32", "width": 1}, {"arrows": "to", "from": "Article 28", "to": "Article 40", "width": 1}, {"arrows": "to", "from": "Article 28", "to": "Article 93", "width": 1}, {"arrows": "to", "from": "Article 28", "to": "Article 63", "width": 1}, {"arrows": "to", "from": "Article 93", "to": "Article 5", "width": 1}, {"arrows": "to", "from": "Article 93", "to": "Article 8", "width": 1}, {"arrows": "to", "from": "Article 30", "to": "Article 49", "width": 1}, {"arrows": "to", "from": "Article 30", "to": "Article 32", "width": 1}, {"arrows": "to", "from": "Article 30", "to": "Article 9", "width": 1}, {"arrows": "to", "from": "Article 49", "to": "Article 45", "width": 1}, {"arrows": "to", "from": "Article 33", "to": "Article 55", "width": 1}, {"arrows": "to", "from": "Article 55", "to": "Article 6", "width": 1}, {"arrows": "to", "from": "Article 35", "to": "Article 9", "width": 1}, {"arrows": "to", "from": "Article 35", "to": "Article 68", "width": 1}, {"arrows": "to", "from": "Article 35", "to": "Article 63", "width": 1}, {"arrows": "to", "from": "Article 35", "to": "Article 40", "width": 1}, {"arrows": "to", "from": "Article 35", "to": "Article 6", "width": 1}, {"arrows": "to", "from": "Article 68", "to": "Article 65", "width": 1}, {"arrows": "to", "from": "Article 36", "to": "Article 35", "width": 1}, {"arrows": "to", "from": "Article 36", "to": "Article 58", "width": 1}, {"arrows": "to", "from": "Article 58", "to": "Article 42", "width": 1}, {"arrows": "to", "from": "Article 58", "to": "Article 17", "width": 1}, {"arrows": "to", "from": "Article 58", "to": "Article 83", "width": 1}, {"arrows": "to", "from": "Article 58", "to": "Article 40", "width": 1}, {"arrows": "to", "from": "Article 58", "to": "Article 43", "width": 1}, {"arrows": "to", "from": "Article 58", "to": "Article 28", "width": 1}, {"arrows": "to", "from": "Article 58", "to": "Article 46", "width": 1}, {"arrows": "to", "from": "Article 58", "to": "Article 47", "width": 1}, {"arrows": "to", "from": "Article 37", "to": "Article 9", "width": 1}, {"arrows": "to", "from": "Article 37", "to": "Article 39", "width": 1}, {"arrows": "to", "from": "Article 39", "to": "Article 35", "width": 1}, {"arrows": "to", "from": "Article 39", "to": "Article 36", "width": 1}, {"arrows": "to", "from": "Article 38", "to": "Article 39", "width": 1}, {"arrows": "to", "from": "Article 41", "to": "Article 63", "width": 1}, {"arrows": "to", "from": "Article 43", "to": "Article 55", "width": 1}, {"arrows": "to", "from": "Article 43", "to": "Article 92", "width": 1}, {"arrows": "to", "from": "Article 43", "to": "Article 93", "width": 1}, {"arrows": "to", "from": "Article 45", "to": "Article 93", "width": 1}, {"arrows": "to", "from": "Article 45", "to": "Article 25", "width": 1}, {"arrows": "to", "from": "Article 47", "to": "Article 63", "width": 1}, {"arrows": "to", "from": "Article 47", "to": "Article 22", "width": 1}, {"arrows": "to", "from": "Article 47", "to": "Article 37", "width": 1}, {"arrows": "to", "from": "Article 47", "to": "Article 93", "width": 1}, {"arrows": "to", "from": "Article 51", "to": "Article 63", "width": 1}, {"arrows": "to", "from": "Article 56", "to": "Article 55", "width": 1}, {"arrows": "to", "from": "Article 56", "to": "Article 60", "width": 1}, {"arrows": "to", "from": "Article 60", "to": "Article 61", "width": 1}, {"arrows": "to", "from": "Article 60", "to": "Article 63", "width": 1}, {"arrows": "to", "from": "Article 60", "to": "Article 66", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 80", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 28", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 35", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 36", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 40", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 42", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 41", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 46", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 47", "width": 1}, {"arrows": "to", "from": "Article 57", "to": "Article 58", "width": 1}, {"arrows": "to", "from": "Article 80", "to": "Article 82", "width": 1}, {"arrows": "to", "from": "Article 80", "to": "Article 77", "width": 1}, {"arrows": "to", "from": "Article 83", "to": "Article 41", "width": 1}, {"arrows": "to", "from": "Article 61", "to": "Article 55", "width": 1}, {"arrows": "to", "from": "Article 61", "to": "Article 93", "width": 1}, {"arrows": "to", "from": "Article 66", "to": "Article 64", "width": 1}, {"arrows": "to", "from": "Article 62", "to": "Article 56", "width": 1}, {"arrows": "to", "from": "Article 62", "to": "Article 55", "width": 1}, {"arrows": "to", "from": "Article 64", "to": "Article 35", "width": 1}, {"arrows": "to", "from": "Article 64", "to": "Article 40", "width": 1}, {"arrows": "to", "from": "Article 64", "to": "Article 41", "width": 1}, {"arrows": "to", "from": "Article 64", "to": "Article 46", "width": 1}, {"arrows": "to", "from": "Article 64", "to": "Article 47", "width": 1}, {"arrows": "to", "from": "Article 64", "to": "Article 61", "width": 1}, {"arrows": "to", "from": "Article 64", "to": "Article 65", "width": 1}, {"arrows": "to", "from": "Article 65", "to": "Article 60", "width": 1}, {"arrows": "to", "from": "Article 69", "to": "Article 70", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 17", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 22", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 33", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 34", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 47", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 49", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 58", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 54", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 42", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 43", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 12", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 64", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 40", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 93", "width": 1}, {"arrows": "to", "from": "Article 70", "to": "Article 76", "width": 1}, {"arrows": "to", "from": "Article 71", "to": "Article 70", "width": 1}, {"arrows": "to", "from": "Article 74", "to": "Article 65", "width": 1}, {"arrows": "to", "from": "Article 74", "to": "Article 63", "width": 1}, {"arrows": "to", "from": "Article 77", "to": "Article 78", "width": 1}, {"arrows": "to", "from": "Article 79", "to": "Article 77", "width": 1}, {"arrows": "to", "from": "Article 82", "to": "Article 79", "width": 1}, {"arrows": "to", "from": "Article 84", "to": "Article 83", "width": 1}, {"arrows": "to", "from": "Article 90", "to": "Article 58", "width": 1}, {"arrows": "to", "from": "Article 94", "to": "Article 29", "width": 1}, {"arrows": "to", "from": "Article 97", "to": "Article 45", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": true,
+        "filter": [
+            "physics"
+        ]
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+                  // if this network requires displaying the configure window,
+                  // put it in its div
+                  options.configure["container"] = document.getElementById("config");
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
